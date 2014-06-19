@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.4\n"
-"Language: zh_TW\n"
+"Language: ja_JP\n"
 
 msgid "SITENAME"
 msgstr "順番コンシェル"
