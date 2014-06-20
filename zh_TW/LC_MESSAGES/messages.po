@@ -36,10 +36,10 @@ msgid "delete"
 msgstr "刪除"
 
 msgid "disable_user"
-msgstr "停用"
+msgstr "封鎖使用者"
 
 msgid "activate_user"
-msgstr "啟用"
+msgstr "解除封鎖"
 
 msgid "created_at"
 msgstr "建立日期"
