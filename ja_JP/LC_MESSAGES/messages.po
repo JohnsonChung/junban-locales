@@ -36,13 +36,10 @@ msgid "delete"
 msgstr "刪除"
 
 msgid "disable_user"
-msgstr "停用"
+msgstr "封鎖使用者"
 
 msgid "activate_user"
-msgstr "啟用"
-
-msgid "email_verified"
-msgstr "Email已認證"
+msgstr "解除封鎖"
 
 msgid "created_at"
 msgstr "建立日期"
@@ -190,6 +187,12 @@ msgstr "IP格式錯誤"
 
 msgid "FOREIGN_KEY_INVALID"
 msgstr "%field% 不存在"
+
+msgid "RECORD_CHECKING"
+msgstr "檢查中..."
+
+msgid "RECORD_TAKEN"
+msgstr "已經被使用"
 
 msgid "ERROR"
 msgstr "錯誤"
