@@ -188,6 +188,12 @@ msgstr "IP格式錯誤"
 msgid "FOREIGN_KEY_INVALID"
 msgstr "%field% 不存在"
 
+msgid "RECORD_CHECKING"
+msgstr "檢查中..."
+
+msgid "RECORD_TAKEN"
+msgstr "已經被使用"
+
 msgid "ERROR"
 msgstr "錯誤"
 
