@@ -41,6 +41,18 @@ msgstr "サイト管理"
 msgid "SUPER_USERS"
 msgstr "ユーサー管理"
 
+msgid "APP_KIOSK"
+msgstr "Kiosk"
+
+msgid "APP_HANDHELD"
+msgstr "Handheld"
+
+msgid "APP_CHECKER"
+msgstr "Checker"
+
+msgid "APP_MONITOR"
+msgstr "Monitor"
+
 msgid "edit"
 msgstr "編集"
 
