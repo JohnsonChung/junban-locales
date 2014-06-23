@@ -48,16 +48,16 @@ msgid "APPS"
 msgstr "アプリ"
 
 msgid "APP_KIOSK"
-msgstr "Kiosk"
+msgstr "受付画面"
 
 msgid "APP_HANDHELD"
-msgstr "Handheld"
+msgstr "スタッフ用"
 
 msgid "APP_CHECKER"
-msgstr "Checker"
+msgstr "順番チェッカー"
 
 msgid "APP_MONITOR"
-msgstr "Monitor"
+msgstr "モニター"
 
 msgid "edit"
 msgstr "編集"
