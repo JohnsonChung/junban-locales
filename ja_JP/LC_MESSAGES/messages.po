@@ -29,6 +29,12 @@ msgstr "ホームページ"
 msgid "USER"
 msgstr "会員情報"
 
+msgid "USER_DISABLED"
+msgstr "該帳號已被封鎖"
+
+msgid "USER_EMAIL_NOT_VERIFIED"
+msgstr "Email尚未驗證"
+
 msgid "SUPER"
 msgstr "サイト管理"
 
