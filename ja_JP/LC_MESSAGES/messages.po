@@ -14,14 +14,44 @@ msgstr ""
 msgid "SITENAME"
 msgstr "順番コンシェル"
 
+msgid "REGISTER"
+msgstr "アカウントの作成"
+
+msgid "REGISTER_SUCCESS"
+msgstr "註冊成功！"
+
+msgid "or"
+msgstr "または"
+
 msgid "HOME"
 msgstr "ホームページ"
+
+msgid "USER"
+msgstr "会員情報"
+
+msgid "USER_DISABLED"
+msgstr "該帳號已被封鎖"
+
+msgid "USER_EMAIL_NOT_VERIFIED"
+msgstr "Email尚未驗證"
 
 msgid "SUPER"
 msgstr "サイト管理"
 
 msgid "SUPER_USERS"
 msgstr "ユーサー管理"
+
+msgid "APP_KIOSK"
+msgstr "Kiosk"
+
+msgid "APP_HANDHELD"
+msgstr "Handheld"
+
+msgid "APP_CHECKER"
+msgstr "Checker"
+
+msgid "APP_MONITOR"
+msgstr "Monitor"
 
 msgid "edit"
 msgstr "編集"
@@ -34,6 +64,12 @@ msgstr "キャンセル"
 
 msgid "delete"
 msgstr "削除"
+
+msgid "submit"
+msgstr "送出"
+
+msgid "confirm_delete"
+msgstr "刪除後就無法復原，確定要刪除嗎？"
 
 msgid "disable_user"
 msgstr "ユーザーを封鎖"
@@ -49,6 +85,12 @@ msgstr "アクション"
 
 msgid "login"
 msgstr "ログイン"
+
+msgid "LOGIN_FAILED"
+msgstr "登入失敗"
+
+msgid "logout"
+msgstr "登出"
 
 msgid "toggle_filter"
 msgstr "フィルター"
@@ -122,6 +164,9 @@ msgstr "パスワード"
 msgid "confirm_password"
 msgstr "パスワード確認"
 
+msgid "confirm_password_not_match"
+msgstr "確認密碼不相同"
+
 msgid "change_password"
 msgstr "パスワード変更"
 
@@ -144,8 +189,7 @@ msgid "require_password"
 msgstr "パスワードをご入力ください。"
 
 msgid "remember_me"
-msgstr ""
-"ログイン状態を保持する (公共の場所にあるパソコンに選択しないでください)"
+msgstr "ログイン状態を保持する (公共の場所にあるパソコンに選択しないでください)"
 
 msgid "csrf_validation_failed"
 msgstr "クロスサイトリクエストフォージェリ（CSRF）認証失敗"
