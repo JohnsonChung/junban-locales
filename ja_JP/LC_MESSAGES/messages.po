@@ -20,6 +20,9 @@ msgstr "アカウントの作成"
 msgid "REGISTER_SUCCESS"
 msgstr "註冊成功！"
 
+msgid "UPDATE_SUCCESS"
+msgstr "更新成功！"
+
 msgid "or"
 msgstr "または"
 
@@ -34,6 +37,9 @@ msgstr "該帳號已被封鎖"
 
 msgid "USER_EMAIL_NOT_VERIFIED"
 msgstr "Email尚未驗證"
+
+msgid "INVOICES"
+msgstr "請求書"
 
 msgid "SUPER"
 msgstr "サイト管理"
@@ -69,7 +75,7 @@ msgid "cancel"
 msgstr "キャンセル"
 
 msgid "undo"
-msgstr "取り消す"
+msgstr "取消"
 
 msgid "delete"
 msgstr "削除"
