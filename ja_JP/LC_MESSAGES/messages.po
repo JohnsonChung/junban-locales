@@ -53,17 +53,47 @@ msgstr "統計データ"
 msgid "APPS"
 msgstr "アプリ"
 
-msgid "APP_KIOSK"
+msgid "app_password"
+msgstr "應用程式密碼"
+
+msgid "app_settings"
+msgstr "設定"
+
+msgid "kiosk"
 msgstr "受付画面"
 
-msgid "APP_HANDHELD"
+msgid "handheld"
 msgstr "スタッフ用"
 
-msgid "APP_CHECKER"
+msgid "checker"
 msgstr "順番チェッカー"
 
-msgid "APP_MONITOR"
+msgid "monitor"
 msgstr "モニター"
+
+msgid "question"
+msgstr "質問"
+
+msgid "kiosk_welcome_message"
+msgstr "受付画面に表示されるメッセージ"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Push button below to get in the line"
+msgstr "Push button below to get in the line"
+
+msgid "question_edit"
+msgstr "問題編輯"
+
+msgid "answer"
+msgstr "答案"
+
+msgid "add_question"
+msgstr "新增問題"
+
+msgid "need_premium"
+msgstr "需要成為付費會員"
 
 msgid "edit"
 msgstr "編集"
@@ -157,6 +187,9 @@ msgstr "無料"
 
 msgid "premium"
 msgstr "プレミアム"
+
+msgid "administrator"
+msgstr "管理者"
 
 msgid "telephone"
 msgstr "電話"
