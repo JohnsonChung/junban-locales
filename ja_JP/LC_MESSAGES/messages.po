@@ -71,6 +71,9 @@ msgstr "ロゴをアップロード"
 msgid "filesize_limit_exceeded"
 msgstr "ファイルのサーズが上限を超えてしまいました。"
 
+msgid "fileformat_not_allowed"
+msgstr "只能使用 %types% 格式的圖檔"
+
 msgid "delete_question"
 msgstr "問題削除"
 
@@ -301,8 +304,7 @@ msgid "EMAIL_INVALID"
 msgstr "ご入力いただいたメールアドレスが正しい内容ではありません。"
 
 msgid "IP_INVALID"
-msgstr ""
-"ご入力いただいたインターネット・プロトコル（IP）が正しい内容ではありません。"
+msgstr "ご入力いただいたインターネット・プロトコル（IP）が正しい内容ではありません。"
 
 msgid "FOREIGN_KEY_INVALID"
 msgstr "%field% 存在しません"
