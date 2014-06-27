@@ -18,10 +18,10 @@ msgid "REGISTER"
 msgstr "アカウントの作成"
 
 msgid "REGISTER_SUCCESS"
-msgstr "註冊成功！"
+msgstr "順番コンシェルにご登録いただきありがとうございます。"
 
 msgid "UPDATE_SUCCESS"
-msgstr "更新成功！"
+msgstr "アップデートは成功しました。"
 
 msgid "or"
 msgstr "または"
@@ -33,10 +33,10 @@ msgid "USER"
 msgstr "会員情報"
 
 msgid "USER_DISABLED"
-msgstr "該帳號已被封鎖"
+msgstr "このアカウントは閉鎖されました。"
 
 msgid "USER_EMAIL_NOT_VERIFIED"
-msgstr "Email尚未驗證"
+msgstr "このEメールはまだ検証しておりません。"
 
 msgid "INVOICES"
 msgstr "請求書"
@@ -54,10 +54,10 @@ msgid "APPS"
 msgstr "アプリ"
 
 msgid "app_password"
-msgstr "應用程式密碼"
+msgstr "アプリのパスワード"
 
 msgid "app_settings"
-msgstr "設定"
+msgstr "アプリ設定"
 
 msgid "kiosk"
 msgstr "受付画面"
@@ -66,16 +66,16 @@ msgid "kiosk_edit"
 msgstr "受付画面編集"
 
 msgid "upload_logo"
-msgstr "上傳Logo"
+msgstr "ロゴをアップロード"
 
 msgid "filesize_limit_exceeded"
-msgstr "檔案大小超過限制"
+msgstr "ファイルのサーズが上限を超えてしまいました。"
 
 msgid "delete_question"
-msgstr "刪除問題"
+msgstr "問題削除"
 
 msgid "delete_answer"
-msgstr "刪除答案"
+msgstr "答え削除"
 
 msgid "handheld"
 msgstr "スタッフ用"
@@ -90,34 +90,34 @@ msgid "question"
 msgstr "質問"
 
 msgid "question_abbr"
-msgstr "問題縮寫"
+msgstr "質問の略語"
 
 msgid "question_abbr_tip"
-msgstr "顯示於スタッフ用"
+msgstr "略語としてスターフのアプリに表示します。例えば：客様の人数。"
 
 msgid "kiosk_welcome_message"
 msgstr "受付画面に表示されるメッセージ"
 
 msgid "Welcome"
-msgstr "Welcome"
+msgstr "ようこそ"
 
 msgid "Push button below to get in the line"
-msgstr "Push button below to get in the line"
+msgstr "下のボタンを押して順番に入ります。"
 
 msgid "question_edit"
-msgstr "問題編輯"
+msgstr "質問編集"
 
 msgid "answer"
-msgstr "答案"
+msgstr "答え"
 
 msgid "add_question"
-msgstr "新增問題"
+msgstr "質問を増えて"
 
 msgid "add_answer"
-msgstr "新增答案"
+msgstr "答えを増えて"
 
 msgid "need_premium"
-msgstr "需要成為付費會員"
+msgstr "この機能はプレミアムの必要です。"
 
 msgid "edit"
 msgstr "編集"
@@ -138,7 +138,7 @@ msgid "submit"
 msgstr "送出"
 
 msgid "confirm_delete"
-msgstr "刪除後就無法復原，確定要刪除嗎？"
+msgstr "削除したら回復することはできませんので，削除を許可しますか？"
 
 msgid "disable_user"
 msgstr "ユーザーを封鎖"
@@ -156,10 +156,10 @@ msgid "login"
 msgstr "ログイン"
 
 msgid "LOGIN_FAILED"
-msgstr "登入失敗"
+msgstr "登録失敗"
 
 msgid "logout"
-msgstr "登出"
+msgstr "ログアウト"
 
 msgid "toggle_filter"
 msgstr "フィルター"
@@ -237,7 +237,7 @@ msgid "confirm_password"
 msgstr "パスワード確認"
 
 msgid "confirm_password_not_match"
-msgstr "確認密碼不相同"
+msgstr "確認のパスワードは正しくありません。"
 
 msgid "change_password"
 msgstr "パスワード変更"
@@ -261,7 +261,8 @@ msgid "require_password"
 msgstr "パスワードをご入力ください。"
 
 msgid "remember_me"
-msgstr "ログイン状態を保持する (公共の場所にあるパソコンに選択しないでください)"
+msgstr ""
+"ログイン状態を保持する (公共の場所にあるパソコンに選択しないでください)"
 
 msgid "csrf_validation_failed"
 msgstr "クロスサイトリクエストフォージェリ（CSRF）認証失敗"
