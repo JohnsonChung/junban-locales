@@ -69,7 +69,10 @@ msgid "upload_logo"
 msgstr "上傳Logo"
 
 msgid "filesize_limit_exceeded"
-msgstr "檔案大小超過限制"
+msgstr "檔案大小不能超過 %size_mb% MB"
+
+msgid "fileformat_not_allowed"
+msgstr "只能使用 %types% 格式的圖檔"
 
 msgid "delete_question"
 msgstr "刪除問題"
