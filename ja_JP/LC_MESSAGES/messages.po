@@ -20,6 +20,9 @@ msgstr "アカウントの作成"
 msgid "REGISTER_SUCCESS"
 msgstr "註冊成功！"
 
+msgid "UPDATE_SUCCESS"
+msgstr "更新成功！"
+
 msgid "or"
 msgstr "または"
 
@@ -35,23 +38,86 @@ msgstr "該帳號已被封鎖"
 msgid "USER_EMAIL_NOT_VERIFIED"
 msgstr "Email尚未驗證"
 
+msgid "INVOICES"
+msgstr "請求書"
+
 msgid "SUPER"
 msgstr "サイト管理"
 
 msgid "SUPER_USERS"
 msgstr "ユーサー管理"
 
-msgid "APP_KIOSK"
-msgstr "Kiosk"
+msgid "STATS"
+msgstr "統計データ"
 
-msgid "APP_HANDHELD"
-msgstr "Handheld"
+msgid "APPS"
+msgstr "アプリ"
 
-msgid "APP_CHECKER"
-msgstr "Checker"
+msgid "app_password"
+msgstr "應用程式密碼"
 
-msgid "APP_MONITOR"
-msgstr "Monitor"
+msgid "app_settings"
+msgstr "設定"
+
+msgid "kiosk"
+msgstr "受付画面"
+
+msgid "kiosk_edit"
+msgstr "受付画面編集"
+
+msgid "upload_logo"
+msgstr "上傳Logo"
+
+msgid "filesize_limit_exceeded"
+msgstr "檔案大小超過限制"
+
+msgid "delete_question"
+msgstr "刪除問題"
+
+msgid "delete_answer"
+msgstr "刪除答案"
+
+msgid "handheld"
+msgstr "スタッフ用"
+
+msgid "checker"
+msgstr "順番チェッカー"
+
+msgid "monitor"
+msgstr "モニター"
+
+msgid "question"
+msgstr "質問"
+
+msgid "question_abbr"
+msgstr "問題縮寫"
+
+msgid "question_abbr_tip"
+msgstr "顯示於スタッフ用"
+
+msgid "kiosk_welcome_message"
+msgstr "受付画面に表示されるメッセージ"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "Push button below to get in the line"
+msgstr "Push button below to get in the line"
+
+msgid "question_edit"
+msgstr "問題編輯"
+
+msgid "answer"
+msgstr "答案"
+
+msgid "add_question"
+msgstr "新增問題"
+
+msgid "add_answer"
+msgstr "新增答案"
+
+msgid "need_premium"
+msgstr "需要成為付費會員"
 
 msgid "edit"
 msgstr "編集"
@@ -61,6 +127,9 @@ msgstr "変更をセーブする"
 
 msgid "cancel"
 msgstr "キャンセル"
+
+msgid "undo"
+msgstr "取消"
 
 msgid "delete"
 msgstr "削除"
@@ -142,6 +211,9 @@ msgstr "無料"
 
 msgid "premium"
 msgstr "プレミアム"
+
+msgid "administrator"
+msgstr "管理者"
 
 msgid "telephone"
 msgstr "電話"
