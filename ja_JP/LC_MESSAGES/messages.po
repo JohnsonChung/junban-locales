@@ -23,6 +23,9 @@ msgstr "順番コンシェルにご登録いただきありがとうございま
 msgid "UPDATE_SUCCESS"
 msgstr "アップデートは成功しました。"
 
+msgid "UPLOAD_SUCCESS"
+msgstr "アップロードは成功しました。"
+
 msgid "or"
 msgstr "または"
 
@@ -64,6 +67,12 @@ msgstr "受付画面"
 
 msgid "kiosk_edit"
 msgstr "受付画面編集"
+
+msgid "kiosk_edit_welcome_description"
+msgstr "これは説明内容の場所です、今は見通り何もありませんから、自分で何とかしよう。下のフォームはKioskアプリの受付画面を設定ができます、右下のプレビューを押して実際の画面が見えます。"
+
+msgid "kiosk_edit_question_description"
+msgstr "これは説明内容の場所です、今は見通り何もありませんから、自分で何とかしよう。下のフォームはKioskアプリの受付画面を設定ができます、右下のプレビューを押して実際の画面が見えます。"
 
 msgid "upload_logo"
 msgstr "ロゴをアップロード"
