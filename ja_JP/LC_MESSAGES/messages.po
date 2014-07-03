@@ -113,6 +113,9 @@ msgstr "略語としてスターフのアプリに表示します。例えば：
 msgid "kiosk_welcome_message"
 msgstr "受付画面に表示されるメッセージ"
 
+msgid "kiosk_company_name"
+msgstr "受付画面に表示される会社名"
+
 msgid "welcome"
 msgstr "ようこそ"
 
