@@ -69,10 +69,14 @@ msgid "kiosk_edit"
 msgstr "受付画面編集"
 
 msgid "kiosk_edit_welcome_description"
-msgstr "これは説明内容の場所です、今は見通り何もありませんから、自分で何とかしよう。下のフォームはKioskアプリの受付画面を設定ができます、右下のプレビューを押して実際の画面が見えます。"
+msgstr ""
+"下のフォームはKioskアプリの受付画面を設定ができます、右下のプレビューを押して"
+"実際の画面が見えます。"
 
 msgid "kiosk_edit_question_description"
-msgstr "これは説明内容の場所です、今は見通り何もありませんから、自分で何とかしよう。下のフォームはKioskアプリの受付画面を設定ができます、右下のプレビューを押して実際の画面が見えます。"
+msgstr ""
+"下のフォームはKioskアプリの受付画面を設定ができます、右下のプレビューを押して"
+"実際の画面が見えます。"
 
 msgid "upload_logo"
 msgstr "ロゴをアップロード"
@@ -81,7 +85,7 @@ msgid "filesize_limit_exceeded"
 msgstr "ファイルのサーズが上限を超えてしまいました。"
 
 msgid "fileformat_not_allowed"
-msgstr "只能使用 %types% 格式的圖檔"
+msgstr "画像は %types% の形式が必要です。"
 
 msgid "kiosk_push_button"
 msgstr "下のボタンを押して順番に入ります"
@@ -135,7 +139,7 @@ msgid "add_answer"
 msgstr "答えを増えて"
 
 msgid "need_premium"
-msgstr "この機能はプレミアムの必要です。"
+msgstr "プレミアム機能です。"
 
 msgid "edit"
 msgstr "編集"
@@ -322,7 +326,8 @@ msgid "EMAIL_INVALID"
 msgstr "ご入力いただいたメールアドレスが正しい内容ではありません。"
 
 msgid "IP_INVALID"
-msgstr "ご入力いただいたインターネット・プロトコル（IP）が正しい内容ではありません。"
+msgstr ""
+"ご入力いただいたインターネット・プロトコル（IP）が正しい内容ではありません。"
 
 msgid "FOREIGN_KEY_INVALID"
 msgstr "%field% 存在しません"
