@@ -23,6 +23,9 @@ msgstr "順番コンシェルにご登録いただきありがとうございま
 msgid "UPDATE_SUCCESS"
 msgstr "アップデートは成功しました。"
 
+msgid "UPLOAD_SUCCESS"
+msgstr "アップロードは成功しました。"
+
 msgid "or"
 msgstr "または"
 
@@ -65,6 +68,12 @@ msgstr "受付画面"
 msgid "kiosk_edit"
 msgstr "受付画面編集"
 
+msgid "kiosk_edit_welcome_description"
+msgstr "これは説明内容の場所です、今は見通り何もありませんから、自分で何とかしよう。下のフォームはKioskアプリの受付画面を設定ができます、右下のプレビューを押して実際の画面が見えます。"
+
+msgid "kiosk_edit_question_description"
+msgstr "これは説明内容の場所です、今は見通り何もありませんから、自分で何とかしよう。下のフォームはKioskアプリの受付画面を設定ができます、右下のプレビューを押して実際の画面が見えます。"
+
 msgid "upload_logo"
 msgstr "ロゴをアップロード"
 
@@ -73,6 +82,9 @@ msgstr "ファイルのサーズが上限を超えてしまいました。"
 
 msgid "fileformat_not_allowed"
 msgstr "只能使用 %types% 格式的圖檔"
+
+msgid "kiosk_push_button"
+msgstr "下のボタンを押して順番に入ります"
 
 msgid "delete_question"
 msgstr "問題削除"
@@ -101,7 +113,10 @@ msgstr "略語としてスターフのアプリに表示します。例えば：
 msgid "kiosk_welcome_message"
 msgstr "受付画面に表示されるメッセージ"
 
-msgid "Welcome"
+msgid "kiosk_company_name"
+msgstr "受付画面に表示される会社名"
+
+msgid "welcome"
 msgstr "ようこそ"
 
 msgid "Push button below to get in the line"
@@ -127,6 +142,9 @@ msgstr "編集"
 
 msgid "save"
 msgstr "変更をセーブする"
+
+msgid "preview"
+msgstr "プレビュー"
 
 msgid "cancel"
 msgstr "キャンセル"
