@@ -78,6 +78,12 @@ msgstr ""
 "下のフォームはKioskアプリの受付画面を設定ができます、右下のプレビューを押して"
 "実際の画面が見えます。"
 
+msgid "kiosk_message_disabled_top"
+msgstr "本日の営業は終了いたしました。"
+
+msgid "kiosk_message_disabled_bottom"
+msgstr "明日請早"
+
 msgid "no_questions"
 msgstr "目前沒有任何問題，請按下方按鈕新增"
 
