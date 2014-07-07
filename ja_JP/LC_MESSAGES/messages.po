@@ -78,6 +78,9 @@ msgstr ""
 "下のフォームはKioskアプリの受付画面を設定ができます、右下のプレビューを押して"
 "実際の画面が見えます。"
 
+msgid "no_questions"
+msgstr "目前沒有任何問題，請按下方按鈕新增"
+
 msgid "upload_logo"
 msgstr "ロゴをアップロード"
 
