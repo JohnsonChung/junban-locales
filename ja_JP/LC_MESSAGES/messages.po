@@ -84,6 +84,24 @@ msgstr "申し訳ありませんが、本日の受付は終了させていただ
 msgid "kiosk_message_disabled_bottom"
 msgstr "次の営業時間によろしくお願いたします。"
 
+msgid "Please sign first!"
+msgstr "Please sign first!"
+
+msgid "Your turn was successfully added"
+msgstr "Your turn was successfully added"
+
+msgid "Please patiently until your number is called"
+msgstr "Please patiently until your number is called"
+
+msgid "Do you want to trace List by Smartphone (QR code)?"
+msgstr "Do you want to trace List by Smartphone (QR code)?"
+
+msgid "This is your Jyunban Checker"
+msgstr "This is your Jyunban Checker"
+
+msgid "Complete!"
+msgstr "Complete!"
+
 msgid "no_questions"
 msgstr "今は質問がありません、下の ”質問を増え\" ボタンを押してください。"
 
