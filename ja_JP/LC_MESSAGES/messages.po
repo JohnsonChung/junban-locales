@@ -85,7 +85,7 @@ msgid "kiosk_message_disabled_bottom"
 msgstr "次の営業時間によろしくお願いたします。"
 
 msgid "Please sign first!"
-msgstr "Please sign first!"
+msgstr "お名前をお書きくださいませんか。"
 
 msgid "Your turn was successfully added"
 msgstr "Your turn was successfully added"
@@ -94,13 +94,13 @@ msgid "Please patiently until your number is called"
 msgstr "Please patiently until your number is called"
 
 msgid "Do you want to trace List by Smartphone (QR code)?"
-msgstr "Do you want to trace List by Smartphone (QR code)?"
+msgstr "QR Code であなたの順番をフォローすることができます。なさいますか？"
 
 msgid "This is your Jyunban Checker"
-msgstr "This is your Jyunban Checker"
+msgstr "下のはあなたの順番チェッカーです。"
 
 msgid "Complete!"
-msgstr "Complete!"
+msgstr "完成しました！"
 
 msgid "no_questions"
 msgstr "今は質問がありません、下の ”質問を増え\" ボタンを押してください。"
