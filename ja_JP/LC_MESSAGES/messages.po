@@ -79,13 +79,13 @@ msgstr ""
 "実際の画面が見えます。"
 
 msgid "kiosk_message_disabled_top"
-msgstr "本日の営業は終了いたしました。"
+msgstr "申し訳ありませんが、本日の受付は終了させていただきました。"
 
 msgid "kiosk_message_disabled_bottom"
-msgstr "明日請早"
+msgstr "次の営業時間によろしくお願いたします。"
 
 msgid "no_questions"
-msgstr "目前沒有任何問題，請按下方按鈕新增"
+msgstr "今は質問がありません、下の ”質問を増え\" ボタンを押してください。"
 
 msgid "upload_logo"
 msgstr "ロゴをアップロード"
