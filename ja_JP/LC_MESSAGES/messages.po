@@ -41,6 +41,21 @@ msgstr "このアカウントは閉鎖されました。"
 msgid "USER_EMAIL_NOT_VERIFIED"
 msgstr "このEメールはまだ検証しておりません。"
 
+msgid "USER_CHANGE_PASSWORD"
+msgstr "パスワード変更"
+
+msgid "ORIGINAL_PASSWORD"
+msgstr "現在のパスワード"
+
+msgid "NEW_PASSWORD"
+msgstr "新しいパスワード"
+
+msgid "NEW_PASSWORD_REPEAT"
+msgstr "新しいパスワードを再入力"
+
+msgid "PASSWORD_WRONG"
+msgstr "密碼不正確"
+
 msgid "INVOICES"
 msgstr "請求書"
 
@@ -103,7 +118,10 @@ msgid "Complete!"
 msgstr "完成しました！"
 
 msgid "no_questions"
-msgstr "今は質問がありません、下の ”質問を増え\" ボタンを押してください。"
+msgstr "今は質問がありません、下の ”質問を増え” ボタンを押してください。"
+
+msgid "no_answers"
+msgstr "今は答えがありません、下の ”答えを増え” ボタンを押してください。"
 
 msgid "upload_logo"
 msgstr "ロゴをアップロード"
@@ -364,6 +382,9 @@ msgstr "検証中..."
 
 msgid "RECORD_TAKEN"
 msgstr "登録されています"
+
+msgid "MESSAGE"
+msgstr "メッセージ"
 
 msgid "ERROR"
 msgstr "エラー"
