@@ -54,7 +54,7 @@ msgid "NEW_PASSWORD_REPEAT"
 msgstr "新しいパスワードを再入力"
 
 msgid "PASSWORD_WRONG"
-msgstr "密碼不正確"
+msgstr "入力したメールアドレスまたはパスワードが間違っています。"
 
 msgid "INVOICES"
 msgstr "請求書"
