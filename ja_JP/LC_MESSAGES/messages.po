@@ -102,6 +102,9 @@ msgstr "次の営業時間によろしくお願いたします。"
 msgid "Please sign first!"
 msgstr "お名前をお書きくださいませんか。"
 
+msgid "Please Sign Your Name"
+msgid "Please Sign Your Name"
+
 msgid "Your turn was successfully added"
 msgstr "Your turn was successfully added"
 
