@@ -102,6 +102,9 @@ msgstr "次の営業時間によろしくお願いたします。"
 msgid "Please sign first!"
 msgstr "お名前をお書きくださいませんか。"
 
+msgid "Please Sign Your Name"
+msgid "Please Sign Your Name"
+
 msgid "Your turn was successfully added"
 msgstr "Your turn was successfully added"
 
@@ -388,6 +391,12 @@ msgstr "メッセージ"
 
 msgid "ERROR"
 msgstr "エラー"
+
+msgid "ERROR_404"
+msgstr "ページが存在しません。引き続き問題が発生する場合は、サポートまでご連絡ください。"
+
+msgid "ERROR_500"
+msgstr "エラーが起きちゃいますよ、管理員をご連絡ください"
 
 msgid "EXCEPTION"
 msgstr "システムエラー、サイト管理員をご連絡ください。"
