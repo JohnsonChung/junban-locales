@@ -92,6 +92,9 @@ msgstr "質問"
 msgid "kiosk_complete"
 msgstr "完成"
 
+msgid "kiosk_disabled"
+msgstr "閉店画面"
+
 msgid "kiosk_edit"
 msgstr "受付画面編集"
 
