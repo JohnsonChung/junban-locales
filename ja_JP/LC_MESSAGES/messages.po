@@ -71,6 +71,13 @@ msgstr "統計データ"
 msgid "APPS"
 msgstr "アプリ"
 
+msgid "prompt_reset_customers_header"
+msgstr "請問要重設顧客資料嗎？"
+
+msgid "prompt_reset_customers_body"
+msgstr "* 目前的顧客資料會被清空。\n"
+"* 顧客編號會重新開始計算。"
+
 msgid "app_password"
 msgstr "アプリのパスワード"
 
