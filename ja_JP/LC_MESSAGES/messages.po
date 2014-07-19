@@ -81,6 +81,12 @@ msgstr "* 目前的顧客資料會被清空。\n"
 msgid "app_password"
 msgstr "アプリのパスワード"
 
+msgid "app_password_name"
+msgstr "コードネーム"
+
+msgid "app_password_link"
+msgstr "リンク"
+
 msgid "app_settings"
 msgstr "アプリ設定"
 
