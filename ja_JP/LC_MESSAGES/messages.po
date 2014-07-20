@@ -87,6 +87,9 @@ msgstr "コードネーム"
 msgid "app_password_link"
 msgstr "リンク"
 
+msgid "add_app_password"
+msgstr "アプリのパスワードを増えて"
+
 msgid "app_settings"
 msgstr "アプリ設定"
 
