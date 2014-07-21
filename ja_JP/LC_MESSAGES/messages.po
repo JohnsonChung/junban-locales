@@ -26,6 +26,9 @@ msgstr "アップデートは成功しました。"
 msgid "UPLOAD_SUCCESS"
 msgstr "アップロードは成功しました。"
 
+msgid "DELETE_SUCCESS"
+msgstr "削除は成功しました。"
+
 msgid "or"
 msgstr "または"
 
@@ -156,6 +159,9 @@ msgstr "今は質問がありません、下の ”質問を増え” ボタン�
 
 msgid "no_answers"
 msgstr "今は答えがありません、下の ”答えを増え” ボタンを押してください。"
+
+msgid "no_app_passwords"
+msgstr "今はパスワードがありません、下の ”アプリのパスワードを増え” ボタンを押してください。"
 
 msgid "upload_logo"
 msgstr "ロゴをアップロード"
