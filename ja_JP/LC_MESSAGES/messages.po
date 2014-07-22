@@ -90,6 +90,9 @@ msgstr "コードネーム"
 msgid "app_password_link"
 msgstr "リンク"
 
+msgid "app_password_link_copied"
+msgstr "已複製認證連結"
+
 msgid "add_app_password"
 msgstr "アプリのパスワードを増えて"
 
