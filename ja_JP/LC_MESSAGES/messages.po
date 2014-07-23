@@ -93,6 +93,9 @@ msgstr "リンク"
 msgid "app_password_link_copied"
 msgstr "已複製認證連結"
 
+msgid "app_password_indication"
+msgstr "請在需要認證的裝置開啟這個連結"
+
 msgid "add_app_password"
 msgstr "アプリのパスワードを増えて"
 
@@ -437,6 +440,9 @@ msgstr "メッセージ"
 
 msgid "ERROR"
 msgstr "エラー"
+
+msgid "ERROR_403"
+msgstr "あなたはこのページを表示する権限がありません"
 
 msgid "ERROR_404"
 msgstr "ページが存在しません。引き続き問題が発生する場合は、サポートまでご連絡ください。"
