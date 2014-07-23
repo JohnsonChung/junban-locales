@@ -96,6 +96,12 @@ msgstr "已複製認證連結"
 msgid "app_password_indication"
 msgstr "請在需要認證的裝置開啟這個連結"
 
+msgid "app_password_disable"
+msgstr "停用"
+
+msgid "app_password_enable"
+msgstr "啟用"
+
 msgid "add_app_password"
 msgstr "アプリのパスワードを増えて"
 
