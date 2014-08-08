@@ -26,6 +26,9 @@ msgstr "アップデートは成功しました。"
 msgid "UPLOAD_SUCCESS"
 msgstr "アップロードは成功しました。"
 
+msgid "DELETE_SUCCESS"
+msgstr "削除は成功しました。"
+
 msgid "or"
 msgstr "または"
 
@@ -71,14 +74,57 @@ msgstr "統計データ"
 msgid "APPS"
 msgstr "アプリ"
 
+msgid "prompt_reset_customers_header"
+msgstr "請問要重設顧客資料嗎？"
+
+msgid "prompt_reset_customers_body"
+msgstr "* 目前的顧客資料會被清空。\n"
+"* 顧客編號會重新開始計算。"
+
 msgid "app_password"
 msgstr "アプリのパスワード"
+
+msgid "app_password_name"
+msgstr "コードネーム"
+
+msgid "app_password_link"
+msgstr "リンク"
+
+msgid "app_password_link_copied"
+msgstr "已複製認證連結"
+
+msgid "app_password_indication"
+msgstr "請在需要認證的裝置開啟這個連結"
+
+msgid "app_password_disable"
+msgstr "停用"
+
+msgid "app_password_enable"
+msgstr "啟用"
+
+msgid "add_app_password"
+msgstr "アプリのパスワードを増えて"
 
 msgid "app_settings"
 msgstr "アプリ設定"
 
 msgid "kiosk"
 msgstr "受付画面"
+
+msgid "kiosk_sign"
+msgstr "サイン"
+
+msgid "kiosk_home"
+msgstr "ホーム"
+
+msgid "kiosk_questions"
+msgstr "質問"
+
+msgid "kiosk_complete"
+msgstr "完成"
+
+msgid "kiosk_disabled"
+msgstr "閉店画面"
 
 msgid "kiosk_edit"
 msgstr "受付画面編集"
@@ -103,7 +149,7 @@ msgid "Please sign first!"
 msgstr "お名前をお書きくださいませんか。"
 
 msgid "Please Sign Your Name"
-msgid "Please Sign Your Name"
+msgstr "Please Sign Your Name"
 
 msgid "Your turn was successfully added"
 msgstr "Your turn was successfully added"
@@ -125,6 +171,9 @@ msgstr "今は質問がありません、下の ”質問を増え” ボタン�
 
 msgid "no_answers"
 msgstr "今は答えがありません、下の ”答えを増え” ボタンを押してください。"
+
+msgid "no_app_passwords"
+msgstr "今はパスワードがありません、下の ”アプリのパスワードを増え” ボタンを押してください。"
 
 msgid "upload_logo"
 msgstr "ロゴをアップロード"
@@ -163,7 +212,13 @@ msgid "question_abbr_tip"
 msgstr "略語としてスターフのアプリに表示します。例えば：客様の人数。"
 
 msgid "kiosk_welcome_message"
-msgstr "受付画面に表示されるメッセージ"
+msgstr "受付画面のメッセージ"
+
+msgid "kiosk_complete_message"
+msgstr "完成画面"
+
+msgid "kiosk_sign_message"
+msgstr "サイン"
 
 msgid "kiosk_company_name"
 msgstr "受付画面に表示される会社名"
@@ -391,6 +446,9 @@ msgstr "メッセージ"
 
 msgid "ERROR"
 msgstr "エラー"
+
+msgid "ERROR_403"
+msgstr "あなたはこのページを表示する権限がありません"
 
 msgid "ERROR_404"
 msgstr "ページが存在しません。引き続き問題が発生する場合は、サポートまでご連絡ください。"
