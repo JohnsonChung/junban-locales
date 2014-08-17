@@ -469,3 +469,6 @@ msgid "checker_description"
 msgstr "本日のご来店ありがとうございます。\n"
 "お客様の順番を下記の通り登録いたしました。\n"
 "お呼び出しの順番が近付きましたら、受付の近くでお待ちいただきますようお願い致します。"
+
+msgid "checker_notification"
+msgstr "あなたの順番になります！"
