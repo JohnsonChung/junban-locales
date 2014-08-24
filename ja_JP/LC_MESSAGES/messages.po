@@ -472,3 +472,9 @@ msgstr "本日のご来店ありがとうございます。\n"
 
 msgid "checker_notification"
 msgstr "あなたの順番になります！"
+
+msgid "app_toggle_notification_disabled"
+msgstr "閉店する"
+
+msgid "app_toggle_notification_enabled"
+msgstr "開店する"
