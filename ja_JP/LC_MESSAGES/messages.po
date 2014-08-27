@@ -499,3 +499,21 @@ msgstr "無法使用"
 
 msgid "升級付費會員"
 msgstr "升級付費會員"
+
+msgid "tts"
+msgstr "ボイス"
+
+msgid "tts_monitor_calling"
+msgstr "モニターボイス"
+
+msgid "tts_monitor_calling_description"
+msgstr "句中的%n%代表顧客編號。例: We are now serving number %n% customer."
+
+msgid "tts_language"
+msgstr "ボイスの言語"
+
+msgid "tts_text"
+msgstr "ボイスの內容"
+
+msgid "tts_play"
+msgstr "再生する"
