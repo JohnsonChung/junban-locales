@@ -478,3 +478,24 @@ msgstr "閉店する"
 
 msgid "app_toggle_notification_enabled"
 msgstr "開店する"
+
+msgid "用戶狀態"
+msgstr "用戶狀態"
+
+msgid "plan_free"
+msgstr "免費用戶"
+
+msgid "免費用戶限制"
+msgstr "免費用戶限制"
+
+msgid "每日排隊人數上限"
+msgstr "每日排隊人數上限"
+
+msgid "今日已登記n人"
+msgstr "今日已登記 %n% 人"
+
+msgid "無法使用"
+msgstr "無法使用"
+
+msgid "升級付費會員"
+msgstr "升級付費會員"
