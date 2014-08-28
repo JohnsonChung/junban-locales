@@ -503,6 +503,9 @@ msgstr "升級付費會員"
 msgid "tts"
 msgstr "ボイス"
 
+msgid "tts_monitor_helptext"
+msgstr "help text"
+
 msgid "tts_monitor_calling"
 msgstr "モニターボイス"
 
@@ -517,3 +520,6 @@ msgstr "ボイスの內容"
 
 msgid "tts_play"
 msgstr "再生する"
+
+msgid "tts_remove"
+msgstr "削除ボイス"
