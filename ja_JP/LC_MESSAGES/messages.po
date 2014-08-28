@@ -140,6 +140,9 @@ msgstr ""
 "下のフォームはKioskアプリの受付画面を設定ができます、右下のプレビューを押して"
 "実際の画面が見えます。"
 
+msgid "kiosk_message_disabled_header"
+msgstr "受付終了"
+
 msgid "kiosk_message_disabled_top"
 msgstr "申し訳ありませんが、本日の受付は終了させていただきました。"
 
@@ -497,6 +500,9 @@ msgstr "今日の人数上限"
 
 msgid "每日人數/上限"
 msgstr "今日の人数/上限"
+
+msgid "daily_queue_limit_reached"
+msgstr "已達到免費會員每日人數上限"
 
 msgid "無法使用"
 msgstr "使えません"
