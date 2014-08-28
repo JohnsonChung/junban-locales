@@ -507,7 +507,7 @@ msgid "tts_monitor_calling"
 msgstr "モニターボイス"
 
 msgid "tts_monitor_calling_description"
-msgstr "句中的%n%代表顧客編號。例: We are now serving number %n% customer."
+msgstr "句中的%n%代表顧客編號。例: %n%番のお客様お待たせいたしました"
 
 msgid "tts_language"
 msgstr "ボイスの言語"
