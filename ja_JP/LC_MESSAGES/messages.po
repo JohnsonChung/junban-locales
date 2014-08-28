@@ -521,5 +521,8 @@ msgstr "ボイスの內容"
 msgid "tts_play"
 msgstr "再生する"
 
+msgid "tts_playing"
+msgstr "再生中"
+
 msgid "tts_remove"
 msgstr "削除ボイス"
