@@ -465,15 +465,17 @@ msgid "EXCEPTION"
 msgstr "システムエラー、サイト管理員をご連絡ください。"
 
 msgid "您已經成功加入隊列!"
-msgstr "您已經成功加入隊列!"
+msgstr "登録成功！貴方は順番に入りました。"
 
 msgid "以下是您的號碼牌，請靜候我們的通知。"
-msgstr "以下是您的號碼牌，請靜候我們的通知。"
+msgstr "下の数字は貴方の順番号です。少々、お待ちください。"
 
 msgid "checker_description"
-msgstr "本日のご来店ありがとうございます。\n"
+msgstr ""
+"本日のご来店ありがとうございます。\n"
 "お客様の順番を下記の通り登録いたしました。\n"
-"お呼び出しの順番が近付きましたら、受付の近くでお待ちいただきますようお願い致します。"
+"お呼び出しの順番が近付きましたら、受付の近くでお待ちいただきますようお願い致"
+"します。"
 
 msgid "checker_notification"
 msgstr "あなたの順番になります！"
@@ -485,34 +487,36 @@ msgid "app_toggle_notification_enabled"
 msgstr "開店する"
 
 msgid "用戶狀態"
-msgstr "用戶狀態"
+msgstr "会員状態"
 
 msgid "免費用戶限制"
-msgstr "免費用戶限制"
+msgstr "無料会員の制限"
 
 msgid "每日排隊人數上限"
-msgstr "每日排隊人數上限"
+msgstr "今日の人数上限"
 
 msgid "每日人數/上限"
-msgstr "每日人數/上限"
+msgstr "今日の人数/上限"
 
 msgid "無法使用"
-msgstr "無法使用"
+msgstr "使えません"
 
 msgid "升級付費會員"
-msgstr "升級付費會員"
+msgstr "プレミアム会員になる"
 
 msgid "tts"
 msgstr "ボイス"
 
 msgid "tts_monitor_helptext"
-msgstr "help text"
+msgstr "ヘルプ内容"
 
 msgid "tts_monitor_calling"
 msgstr "モニターボイス"
 
 msgid "tts_monitor_calling_description"
-msgstr "句中的%n%代表顧客編號。例: %n%番のお客様お待たせいたしました"
+msgstr ""
+"内容中の %n% はお客様の順番号を表示します。例えば %n%番のお客様お待たせいたし"
+"ました。"
 
 msgid "tts_language"
 msgstr "ボイスの言語"
