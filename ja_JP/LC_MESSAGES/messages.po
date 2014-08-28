@@ -149,6 +149,10 @@ msgstr "申し訳ありませんが、本日の受付は終了させていただ
 msgid "kiosk_message_disabled_bottom"
 msgstr "次の営業時間によろしくお願いたします。"
 
+msgid "kiosk_message_limit_reached"
+msgstr "今日、無料会員の登録上限を超えてしまいましたので （毎日 %n% 人）、\n"
+"順番登録機能が一旦中止になります、次の日に回復します。"
+
 msgid "Please sign first!"
 msgstr "お名前をお書きくださいませんか。"
 
