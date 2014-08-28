@@ -458,3 +458,68 @@ msgstr "エラーが起きちゃいますよ、管理員をご連絡ください
 
 msgid "EXCEPTION"
 msgstr "システムエラー、サイト管理員をご連絡ください。"
+
+msgid "您已經成功加入隊列!"
+msgstr "您已經成功加入隊列!"
+
+msgid "以下是您的號碼牌，請靜候我們的通知。"
+msgstr "以下是您的號碼牌，請靜候我們的通知。"
+
+msgid "checker_description"
+msgstr "本日のご来店ありがとうございます。\n"
+"お客様の順番を下記の通り登録いたしました。\n"
+"お呼び出しの順番が近付きましたら、受付の近くでお待ちいただきますようお願い致します。"
+
+msgid "checker_notification"
+msgstr "あなたの順番になります！"
+
+msgid "app_toggle_notification_disabled"
+msgstr "閉店する"
+
+msgid "app_toggle_notification_enabled"
+msgstr "開店する"
+
+msgid "用戶狀態"
+msgstr "用戶狀態"
+
+msgid "免費用戶限制"
+msgstr "免費用戶限制"
+
+msgid "每日排隊人數上限"
+msgstr "每日排隊人數上限"
+
+msgid "每日人數/上限"
+msgstr "每日人數/上限"
+
+msgid "無法使用"
+msgstr "無法使用"
+
+msgid "升級付費會員"
+msgstr "升級付費會員"
+
+msgid "tts"
+msgstr "ボイス"
+
+msgid "tts_monitor_helptext"
+msgstr "help text"
+
+msgid "tts_monitor_calling"
+msgstr "モニターボイス"
+
+msgid "tts_monitor_calling_description"
+msgstr "句中的%n%代表顧客編號。例: %n%番のお客様お待たせいたしました"
+
+msgid "tts_language"
+msgstr "ボイスの言語"
+
+msgid "tts_text"
+msgstr "ボイスの內容"
+
+msgid "tts_play"
+msgstr "再生する"
+
+msgid "tts_playing"
+msgstr "再生中"
+
+msgid "tts_remove"
+msgstr "削除ボイス"
