@@ -75,11 +75,12 @@ msgid "APPS"
 msgstr "アプリ"
 
 msgid "prompt_reset_customers_header"
-msgstr "請問要重設顧客資料嗎？"
+msgstr "今のお客様の順番記録をクリアしませんか？"
 
 msgid "prompt_reset_customers_body"
-msgstr "* 目前的顧客資料會被清空。\n"
-"* 顧客編號會重新開始計算。"
+msgstr ""
+"* 今の順番リストをクリアします。 \n"
+"* 順番は最初から始まります。"
 
 msgid "app_password"
 msgstr "アプリのパスワード"
@@ -91,16 +92,16 @@ msgid "app_password_link"
 msgstr "リンク"
 
 msgid "app_password_link_copied"
-msgstr "已複製認證連結"
+msgstr "リンクをコピーしました。"
 
 msgid "app_password_indication"
-msgstr "請在需要認證的裝置開啟這個連結"
+msgstr "登録したい端末にこのリンクを開けてください。"
 
 msgid "app_password_disable"
 msgstr "停用"
 
 msgid "app_password_enable"
-msgstr "啟用"
+msgstr "起用"
 
 msgid "add_app_password"
 msgstr "アプリのパスワードを増えて"
@@ -149,7 +150,7 @@ msgid "Please sign first!"
 msgstr "お名前をお書きくださいませんか。"
 
 msgid "Please Sign Your Name"
-msgstr "Please Sign Your Name"
+msgstr "お名前をお書きくださいませんか。"
 
 msgid "Your turn was successfully added"
 msgstr "Your turn was successfully added"
@@ -173,7 +174,9 @@ msgid "no_answers"
 msgstr "今は答えがありません、下の ”答えを増え” ボタンを押してください。"
 
 msgid "no_app_passwords"
-msgstr "今はパスワードがありません、下の ”アプリのパスワードを増え” ボタンを押してください。"
+msgstr ""
+"今はパスワードがありません、下の ”アプリのパスワードを増え” ボタンを押してく"
+"ださい。"
 
 msgid "upload_logo"
 msgstr "ロゴをアップロード"
@@ -451,7 +454,9 @@ msgid "ERROR_403"
 msgstr "あなたはこのページを表示する権限がありません"
 
 msgid "ERROR_404"
-msgstr "ページが存在しません。引き続き問題が発生する場合は、サポートまでご連絡ください。"
+msgstr ""
+"ページが存在しません。引き続き問題が発生する場合は、サポートまでご連絡くださ"
+"い。"
 
 msgid "ERROR_500"
 msgstr "エラーが起きちゃいますよ、管理員をご連絡ください"
