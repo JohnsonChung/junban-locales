@@ -542,3 +542,12 @@ msgstr "再生中"
 
 msgid "tts_remove"
 msgstr "削除ボイス"
+
+msgid "customer_sequence_number"
+msgstr "顧客編號"
+
+msgid "customer_waiting_time"
+msgstr "顧客等待時間"
+
+msgid "customers_pie_chart"
+msgstr "目前顧客狀態"
