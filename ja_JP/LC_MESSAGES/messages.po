@@ -523,6 +523,12 @@ msgstr "ヘルプ内容"
 msgid "tts_monitor_calling"
 msgstr "モニターボイス"
 
+msgid "tts_monitor_customer_called"
+msgstr "客人呼叫提示"
+
+msgid "tts_monitor_customer_signed"
+msgstr "人數增加提示"
+
 msgid "tts_monitor_calling_description"
 msgstr ""
 "内容中の %n% はお客様の順番号を表示します。例えば %n%番のお客様お待たせいたし"
@@ -551,3 +557,6 @@ msgstr "顧客等待時間"
 
 msgid "customers_pie_chart"
 msgstr "目前顧客狀態"
+
+msgid "monitor_voice_settings"
+msgstr "提示音設定"
