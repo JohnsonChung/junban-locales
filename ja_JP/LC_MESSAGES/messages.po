@@ -140,11 +140,18 @@ msgstr ""
 "下のフォームはKioskアプリの受付画面を設定ができます、右下のプレビューを押して"
 "実際の画面が見えます。"
 
+msgid "kiosk_message_disabled_header"
+msgstr "受付終了"
+
 msgid "kiosk_message_disabled_top"
 msgstr "申し訳ありませんが、本日の受付は終了させていただきました。"
 
 msgid "kiosk_message_disabled_bottom"
 msgstr "次の営業時間によろしくお願いたします。"
+
+msgid "kiosk_message_limit_reached"
+msgstr "今日、無料会員の登録上限を超えてしまいましたので （毎日 %n% 人）、\n"
+"順番登録機能が一旦中止になります、次の日に回復します。"
 
 msgid "Please sign first!"
 msgstr "お名前をお書きくださいませんか。"
@@ -498,6 +505,9 @@ msgstr "今日の人数上限"
 msgid "每日人數/上限"
 msgstr "今日の人数/上限"
 
+msgid "daily_queue_limit_reached"
+msgstr "已達到每日顧客數量上限"
+
 msgid "無法使用"
 msgstr "使えません"
 
@@ -512,6 +522,12 @@ msgstr "ヘルプ内容"
 
 msgid "tts_monitor_calling"
 msgstr "モニターボイス"
+
+msgid "tts_monitor_customer_called"
+msgstr "客人呼叫提示"
+
+msgid "tts_monitor_customer_signed"
+msgstr "人數增加提示"
 
 msgid "tts_monitor_calling_description"
 msgstr ""
@@ -532,3 +548,15 @@ msgstr "再生中"
 
 msgid "tts_remove"
 msgstr "削除ボイス"
+
+msgid "customer_sequence_number"
+msgstr "顧客編號"
+
+msgid "customer_waiting_time"
+msgstr "顧客等待時間"
+
+msgid "customers_pie_chart"
+msgstr "目前顧客狀態"
+
+msgid "monitor_voice_settings"
+msgstr "提示音設定"
