@@ -560,3 +560,18 @@ msgstr "目前顧客狀態"
 
 msgid "monitor_voice_settings"
 msgstr "提示音設定"
+
+msgid "重設時間"
+msgstr "リセット時間"
+
+msgid "kiosk_short_description"
+msgstr "There are %W% waiting customers."
+
+msgid "handheld_short_description"
+msgstr "Waiting:%W%, Called:%C%, Missed:%M%"
+
+msgid "checker_short_description"
+msgstr "Checker Short Description"
+
+msgid "monitor_short_description"
+msgstr "Monitor Short Description"
