@@ -563,19 +563,19 @@ msgid "monitor_voice_settings"
 msgstr "提示ボイス設定"
 
 msgid "重設時間"
-msgstr "リセット時間"
+msgstr "時間をリセット"
 
 msgid "kiosk_short_description"
-msgstr "There are %waiting% waiting customers."
+msgstr " %waiting% 人のお客様がお待ち"
 
 msgid "handheld_short_description"
-msgstr "Waiting:%waiting%, Called:%called%, Missed:%missed%"
+msgstr "お待ち：%waiting%、 呼んだ：%called%, 不明：%missed%"
 
 msgid "checker_short_description"
-msgstr "Checker Short Description"
+msgstr "携帯で今の順番を確認するアプリ。"
 
 msgid "monitor_short_description"
-msgstr "Monitor Short Description"
+msgstr "順番の一覧を表示するアプリ。ヴォイス呼び機能付き。"
 
 msgid "customers_count"
-msgstr "顧客總數"
+msgstr "お客様人数"
