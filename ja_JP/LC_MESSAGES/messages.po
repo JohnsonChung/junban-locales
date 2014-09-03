@@ -575,3 +575,6 @@ msgstr "Checker Short Description"
 
 msgid "monitor_short_description"
 msgstr "Monitor Short Description"
+
+msgid "customers_count"
+msgstr "顧客總數"
