@@ -150,7 +150,8 @@ msgid "kiosk_message_disabled_bottom"
 msgstr "次の営業時間によろしくお願いたします。"
 
 msgid "kiosk_message_limit_reached"
-msgstr "今日、無料会員の登録上限を超えてしまいましたので （毎日 %n% 人）、\n"
+msgstr ""
+"今日、無料会員の登録上限を超えてしまいましたので （毎日 %n% 人）、\n"
 "順番登録機能が一旦中止になります、次の日に回復します。"
 
 msgid "Please sign first!"
@@ -160,10 +161,10 @@ msgid "Please Sign Your Name"
 msgstr "お名前をお書きくださいませんか。"
 
 msgid "Your turn was successfully added"
-msgstr "Your turn was successfully added"
+msgstr "登録成功！貴方は順番に入りました。"
 
 msgid "Please patiently until your number is called"
-msgstr "Please patiently until your number is called"
+msgstr "少々、順番をお待ち下さい。"
 
 msgid "Do you want to trace List by Smartphone (QR code)?"
 msgstr "QR Code であなたの順番をフォローすることができます。なさいますか？"
@@ -506,7 +507,7 @@ msgid "每日人數/上限"
 msgstr "今日の人数/上限"
 
 msgid "daily_queue_limit_reached"
-msgstr "已達到每日顧客數量上限"
+msgstr "今日の順番人数上限が着きました。"
 
 msgid "無法使用"
 msgstr "使えません"
@@ -524,10 +525,10 @@ msgid "tts_monitor_calling"
 msgstr "モニターボイス"
 
 msgid "tts_monitor_customer_called"
-msgstr "客人呼叫提示"
+msgstr "お客様コールの提示ボイス"
 
 msgid "tts_monitor_customer_signed"
-msgstr "人數增加提示"
+msgstr "人数増えの提示ボイス"
 
 msgid "tts_monitor_calling_description"
 msgstr ""
@@ -550,13 +551,13 @@ msgid "tts_remove"
 msgstr "削除ボイス"
 
 msgid "customer_sequence_number"
-msgstr "顧客編號"
+msgstr "お客様順番号"
 
 msgid "customer_waiting_time"
-msgstr "顧客等待時間"
+msgstr "お客様の待ち時間"
 
 msgid "customers_pie_chart"
-msgstr "目前顧客狀態"
+msgstr "お客様の状態"
 
 msgid "monitor_voice_settings"
-msgstr "提示音設定"
+msgstr "提示ボイス設定"
