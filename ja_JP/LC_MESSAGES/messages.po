@@ -579,3 +579,9 @@ msgstr "順番の一覧を表示するアプリ。ヴォイス呼び機能付き
 
 msgid "customers_count"
 msgstr "お客様人数"
+
+msgsid "monitor_voice_signed"
+msgstr "%n%番のお客様がご来店されました。"
+
+msgsid "monitor_voice_calling"
+msgstr "%n%番のお客様お待たせいたしました。"
