@@ -581,7 +581,7 @@ msgid "customers_count"
 msgstr "お客様人数"
 
 msgid "monitor_voice_signed"
-msgstr "%n%番のお客様がご来店されました。"
+msgstr "お客様ご来店です、只今%total%名お待ちです。"
 
 msgid "monitor_voice_calling"
 msgstr "%n%番のお客様お待たせいたしました。"
