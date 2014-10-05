@@ -137,16 +137,15 @@ msgstr ""
 "１：横3ぐらいを推奨します）"
 
 msgid "kiosk_edit_sign_description"
-msgstr ""
-"サインを書いていただく画面です。画面上部のテキストが編集できます。"
+msgstr "サインを書いていただく画面です。画面上部のテキストが編集できます。"
 
 msgid "kiosk_edit_question_description"
 msgstr ""
-"お客様に答えていただく質問とその答え（選択肢）です。質問は5つまで設定できます。"
+"お客様に答えていただく質問とその答え（選択肢）です。質問は5つまで設定できま"
+"す。"
 
 msgid "kiosk_edit_complete_description"
-msgstr ""
-"登録完了時の画面にスマートフォン用QRコードの発行画面を表示しますか?"
+msgstr "登録完了時の画面にスマートフォン用QRコードの発行画面を表示しますか?"
 
 msgid "kiosk_message_disabled_header"
 msgstr "受付終了"
@@ -175,7 +174,9 @@ msgid "Please patiently until your number is called"
 msgstr "少々、順番をお待ち下さい。"
 
 msgid "Do you want to trace List by Smartphone (QR code)?"
-msgstr "QR Code であなたの順番をフォローすることができます。なさいますか？"
+msgstr ""
+"QRコードが読み取れるスマートフォンで、順番のチェックができます。QRコードを発"
+"行しますか？"
 
 msgid "This is your Jyunban Checker"
 msgstr "下のはあなたの順番チェッカーです。"
@@ -482,10 +483,10 @@ msgid "EXCEPTION"
 msgstr "システムエラー、サイト管理員をご連絡ください。"
 
 msgid "您已經成功加入隊列!"
-msgstr "登録成功！貴方は順番に入りました。"
+msgstr "お客様の順番が登録されました。"
 
 msgid "以下是您的號碼牌，請靜候我們的通知。"
-msgstr "下の数字は貴方の順番号です。少々、お待ちください。"
+msgstr "お名前が呼ばれるまでお待ちください。"
 
 msgid "checker_description"
 msgstr ""
