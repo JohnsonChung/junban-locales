@@ -110,7 +110,7 @@ msgid "app_settings"
 msgstr "アプリ設定"
 
 msgid "kiosk"
-msgstr "受付画面"
+msgstr "最初の画面"
 
 msgid "kiosk_sign"
 msgstr "サイン"
@@ -132,8 +132,9 @@ msgstr "受付画面編集"
 
 msgid "kiosk_edit_welcome_description"
 msgstr ""
-"下のフォームはKioskアプリの受付画面を設定ができます、右下のプレビューを押して"
-"実際の画面が見えます。"
+"受付機に最初に表示される画面です。ロゴマークやご案内の内容を画像にしてアップ"
+"ロードしてください。（画像の大きさは自動で調整されますが、縦横の比率は、縦"
+"１：横3ぐらいを推奨します）"
 
 msgid "kiosk_edit_question_description"
 msgstr ""
@@ -199,10 +200,10 @@ msgid "kiosk_push_button"
 msgstr "下のボタンを押して順番に入ります"
 
 msgid "delete_question"
-msgstr "問題削除"
+msgstr "質問削除"
 
 msgid "delete_answer"
-msgstr "答え削除"
+msgstr "選択肢削除"
 
 msgid "handheld"
 msgstr "スタッフ用"
@@ -220,7 +221,8 @@ msgid "question_abbr"
 msgstr "質問の略語"
 
 msgid "question_abbr_tip"
-msgstr "略語としてスターフのアプリに表示します。例えば：客様の人数。"
+msgstr ""
+"質問を識別するための3文字程度の言葉を入力します。例：「人数」「席の希望」"
 
 msgid "kiosk_welcome_message"
 msgstr "受付画面のメッセージ"
@@ -247,10 +249,10 @@ msgid "answer"
 msgstr "答え"
 
 msgid "add_question"
-msgstr "質問を増えて"
+msgstr "質問を増やす"
 
 msgid "add_answer"
-msgstr "答えを増えて"
+msgstr "選択肢を増やす"
 
 msgid "need_premium"
 msgstr "プレミアム機能です。"
