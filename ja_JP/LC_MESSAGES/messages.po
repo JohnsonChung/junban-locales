@@ -595,3 +595,15 @@ msgstr "お客様ご来店です、只今%total%名お待ちです。"
 
 msgid "monitor_voice_calling"
 msgstr "%n%番のお客様お待たせいたしました。"
+
+msgid "ON"
+msgstr "する"
+
+msgid "OFF"
+msgstr "しない"
+
+msgid "kiosk_qr_enabled_on"
+msgstr "<b>「表示する」</b>。QRコード発行「する」「しない」を選択できます。"
+
+msgid "kiosk_qr_enabled_off"
+msgstr "<b>「表示しない」</b>。QRコード発行選択を表示されず、完了画面になります。"
