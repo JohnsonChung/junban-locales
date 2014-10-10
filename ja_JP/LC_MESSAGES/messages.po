@@ -110,6 +110,9 @@ msgid "app_settings"
 msgstr "アプリ設定"
 
 msgid "kiosk"
+msgstr "キオスク"
+
+msgid "kiosk_welcome"
 msgstr "最初の画面"
 
 msgid "kiosk_sign"
