@@ -135,9 +135,9 @@ msgstr "受付画面編集"
 
 msgid "kiosk_edit_welcome_description"
 msgstr ""
-"受付機に最初に表示される画面です。ロゴマークやご案内の内容を画像にしてアップ"
-"ロードしてください。（画像の大きさは自動で調整されますが、縦横の比率は、縦"
-"１：横3ぐらいを推奨します）"
+"受付機に最初に表示される画面です。<br>ロゴマークやご案内の内容を画像にして"
+"アップロードしてください。<br>（画像の大きさは自動で調整されますが、縦横の比"
+"率は、縦１：横3ぐらいを推奨します）"
 
 msgid "kiosk_edit_sign_description"
 msgstr "サインを書いていただく画面です。画面上部のテキストが編集できます。"
@@ -171,14 +171,15 @@ msgid "Please Sign Your Name"
 msgstr "お名前をお書きくださいませんか。"
 
 msgid "Your turn was successfully added"
-msgstr "登録成功！貴方は順番に入りました。"
+msgstr "お客様の順番が登録されました。"
 
 msgid "Please patiently until your number is called"
-msgstr "少々、順番をお待ち下さい。"
+msgstr "お名前が呼ばれるまでお待ちください。"
 
 msgid "kiosk_junban_checker_confirm_title"
-msgstr "<h1>QRコードが読み取れるスマートフォンで、</h1>"
-"<h1>順番のチェックができます。</h1>"
+msgstr ""
+"<h1>QRコードが読み取れるスマートフォンで、</h1><h1>順番のチェックができます。"
+"</h1>"
 
 msgid "Do you want to trace List by Smartphone (QR code)?"
 msgstr "QRコードを発行しますか？"
@@ -611,7 +612,8 @@ msgid "kiosk_qr_enabled_on"
 msgstr "<b>「表示する」</b>。QRコード発行「する」「しない」を選択できます。"
 
 msgid "kiosk_qr_enabled_off"
-msgstr "<b>「表示しない」</b>。QRコード発行選択を表示されず、完了画面になります。"
+msgstr ""
+"<b>「表示しない」</b>。QRコード発行選択を表示されず、完了画面になります。"
 
 msgid "kiosk_qr_yes"
 msgstr "発行する"
