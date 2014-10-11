@@ -176,10 +176,12 @@ msgstr "登録成功！貴方は順番に入りました。"
 msgid "Please patiently until your number is called"
 msgstr "少々、順番をお待ち下さい。"
 
+msgid "kiosk_junban_checker_confirm_title"
+msgstr "<h1>QRコードが読み取れるスマートフォンで、</h1>"
+"<h1>順番のチェックができます。</h1>"
+
 msgid "Do you want to trace List by Smartphone (QR code)?"
-msgstr ""
-"QRコードが読み取れるスマートフォンで、順番のチェックができます。QRコードを発"
-"行しますか？"
+msgstr "QRコードを発行しますか？"
 
 msgid "This is your Jyunban Checker"
 msgstr "下のはあなたの順番チェッカーです。"
@@ -610,3 +612,9 @@ msgstr "<b>「表示する」</b>。QRコード発行「する」「しない」
 
 msgid "kiosk_qr_enabled_off"
 msgstr "<b>「表示しない」</b>。QRコード発行選択を表示されず、完了画面になります。"
+
+msgid "kiosk_qr_yes"
+msgstr "発行する"
+
+msgid "kiosk_qr_no"
+msgstr "発行しない"
