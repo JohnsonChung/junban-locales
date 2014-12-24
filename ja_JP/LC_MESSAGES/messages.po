@@ -572,7 +572,7 @@ msgstr "お客様順番号"
 msgid "customer_waiting_time"
 msgstr "お客様の待ち時間"
 
-msgid "customers_pie_chart"
+msgid "customers_status"
 msgstr "お客様の状態"
 
 msgid "monitor_voice_settings"
@@ -620,3 +620,12 @@ msgstr "発行する"
 
 msgid "kiosk_qr_no"
 msgstr "発行しない"
+
+msgid "waiting"
+msgstr "お待ち"
+
+msgid "called"
+msgstr "呼出し"
+
+msgid "missed"
+msgstr "不明"
