@@ -71,6 +71,12 @@ msgstr "ユーサー管理"
 msgid "STATS"
 msgstr "統計データ"
 
+msgid "STATS_OVERVIEW"
+msgstr "お客様の状態"
+
+msgid "STATS_QUESTIONS"
+msgstr "回答状況統計"
+
 msgid "APPS"
 msgstr "アプリ"
 
