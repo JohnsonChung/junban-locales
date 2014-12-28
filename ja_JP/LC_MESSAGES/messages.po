@@ -74,7 +74,7 @@ msgstr "統計データ"
 msgid "STATS_OVERVIEW"
 msgstr "お客様の状態"
 
-msgid "STATS_QUESTIONS"
+msgid "STATS_ANSWERS"
 msgstr "回答状況統計"
 
 msgid "APPS"
