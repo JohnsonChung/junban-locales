@@ -91,6 +91,12 @@ msgstr ""
 msgid "app_password"
 msgstr "アプリのパスワード"
 
+msgid "app_password_description"
+msgstr "アプリパスワードは「アプリ・マネジャー」と「アプリ・キオスク」など「アプリ」専用のパスワード。\n"
+"非管理人（従業員など）に管理パスワードを知らせないままにアプリを使わせるために、個別のモビルに専用のアプリパスワードを分配します。\n"
+"モビルデバイスでアプリパスワードのQRコードを読み取って、管理パスワードの不要でアプリが使えるようになります。\n"
+"アプリパスワードを要らない時に一旦停止と削除することは可能です。"
+
 msgid "app_password_name"
 msgstr "コードネーム"
 
@@ -641,3 +647,6 @@ msgstr "日別平均待ち時間"
 
 msgid "customers_missed_rate"
 msgstr "％不明"
+
+msgid "no_data"
+msgstr "データなし"
