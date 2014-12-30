@@ -643,7 +643,7 @@ msgid "missed"
 msgstr "不明"
 
 msgid "customers_avg_waiting_time"
-msgstr "日別平均待ち時間"
+msgstr "日別平均待ち時間 (呼出し)"
 
 msgid "customers_missed_rate"
 msgstr "％不明"
