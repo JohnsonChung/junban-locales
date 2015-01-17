@@ -50,6 +50,9 @@ msgstr "このアカウントは閉鎖されました。"
 msgid "USER_EMAIL_NOT_VERIFIED"
 msgstr "このEメールはまだ検証しておりません。"
 
+msgid "USER_EMAIL_VERIFY_SUCCESS"
+msgstr "Email verification successful"
+
 msgid "USER_CHANGE_PASSWORD"
 msgstr "パスワード変更"
 
