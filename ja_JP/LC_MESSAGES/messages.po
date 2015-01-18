@@ -24,7 +24,7 @@ msgid "REGISTER"
 msgstr "アカウントの作成"
 
 msgid "REGISTER_SUCCESS"
-msgstr "順番コンシェルにご登録いただきありがとうございます。"
+msgstr "順番コンシェルにご登録いただきありがとうございます、確認用メールを送信しました。"
 
 msgid "UPDATE_SUCCESS"
 msgstr "アップデートは成功しました。"
@@ -603,7 +603,7 @@ msgid "monitor_voice_settings"
 msgstr "提示ボイス設定"
 
 msgid "重設時間"
-msgstr "時間をリセット"
+msgstr "リセットの時間"
 
 msgid "kiosk_short_description"
 msgstr " %waiting% 人のお客様がお待ち"
