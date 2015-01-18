@@ -14,6 +14,12 @@ msgstr ""
 msgid "SITENAME"
 msgstr "順番コンシェル"
 
+msgid "COMPANY_NAME"
+msgstr "一般社団法人PCサポート技術者協会"
+
+msgid "COMPANY_ADDRESS"
+msgstr "〒362-0014　埼玉県上尾市柏座"
+
 msgid "REGISTER"
 msgstr "アカウントの作成"
 
@@ -44,6 +50,9 @@ msgstr "このアカウントは閉鎖されました。"
 msgid "USER_EMAIL_NOT_VERIFIED"
 msgstr "このEメールはまだ検証しておりません。"
 
+msgid "USER_EMAIL_VERIFY_SUCCESS"
+msgstr "Email verification successful"
+
 msgid "USER_CHANGE_PASSWORD"
 msgstr "パスワード変更"
 
@@ -71,6 +80,12 @@ msgstr "ユーサー管理"
 msgid "STATS"
 msgstr "統計データ"
 
+msgid "STATS_OVERVIEW"
+msgstr "お客様の状態"
+
+msgid "STATS_ANSWERS"
+msgstr "回答状況統計"
+
 msgid "APPS"
 msgstr "アプリ"
 
@@ -84,6 +99,12 @@ msgstr ""
 
 msgid "app_password"
 msgstr "アプリのパスワード"
+
+msgid "app_password_description"
+msgstr "アプリパスワードは「アプリ・マネジャー」と「アプリ・キオスク」など「アプリ」専用のパスワード。\n"
+"非管理人（従業員など）に管理パスワードを知らせないままにアプリを使わせるために、個別のモビルに専用のアプリパスワードを分配します。\n"
+"モビルデバイスでアプリパスワードのQRコードを読み取って、管理パスワードの不要でアプリが使えるようになります。\n"
+"アプリパスワードを要らない時に一旦停止と削除することは可能です。"
 
 msgid "app_password_name"
 msgstr "コードネーム"
@@ -385,6 +406,9 @@ msgstr "検証済"
 msgid "email_not_verified"
 msgstr "未検証"
 
+msgid "email_activate"
+msgstr "Activate Now!"
+
 msgid "password"
 msgstr "パスワード"
 
@@ -572,7 +596,7 @@ msgstr "お客様順番号"
 msgid "customer_waiting_time"
 msgstr "お客様の待ち時間"
 
-msgid "customers_pie_chart"
+msgid "customers_status"
 msgstr "お客様の状態"
 
 msgid "monitor_voice_settings"
@@ -620,3 +644,21 @@ msgstr "発行する"
 
 msgid "kiosk_qr_no"
 msgstr "発行しない"
+
+msgid "waiting"
+msgstr "お待ち"
+
+msgid "called"
+msgstr "呼出し"
+
+msgid "missed"
+msgstr "不明"
+
+msgid "customers_avg_waiting_time"
+msgstr "日別平均待ち時間 (呼出し)"
+
+msgid "customers_missed_rate"
+msgstr "％不明"
+
+msgid "no_data"
+msgstr "データなし"
