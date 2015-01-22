@@ -68,6 +68,16 @@ msgstr "新しいパスワードを再入力"
 msgid "PASSWORD_WRONG"
 msgstr "入力したメールアドレスまたはパスワードが間違っています。"
 
+msgid "RESET_PASSWORD"
+msgstr "パスワードを変更する"
+
+msgid "FORGET_PASSWORD"
+msgstr "パスワードを忘れた"
+
+msgid "RESET_PASSWORD_MAIL_SENT"
+msgstr "入力いただいたメールアドレス宛に、パスワード変更メールを送信しました。\n
+6時間以内に変更手続きを完了してください。"
+
 msgid "INVOICES"
 msgstr "請求書"
 
