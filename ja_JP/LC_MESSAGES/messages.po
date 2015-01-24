@@ -672,3 +672,6 @@ msgstr "％不明"
 
 msgid "no_data"
 msgstr "データなし"
+
+msgid "RECAPTCHA_FAILED"
+msgstr "reCAPTCHA認証の入力内容に間違いがあります。"
