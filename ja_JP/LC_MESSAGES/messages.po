@@ -78,6 +78,9 @@ msgid "RESET_PASSWORD_MAIL_SENT"
 msgstr "入力いただいたメールアドレス宛に、パスワード変更メールを送信しました。\n"
 "6時間以内に変更手続きを完了してください。"
 
+msgid "RESET_PASSWORD_NOT_EXISTS"
+msgstr "ご入力いただいたメールアドレスは登録されていません。"
+
 msgid "INVOICES"
 msgstr "請求書"
 
