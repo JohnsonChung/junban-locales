@@ -81,6 +81,9 @@ msgstr "入力いただいたメールアドレス宛に、パスワード変更
 msgid "RESET_PASSWORD_NOT_EXISTS"
 msgstr "ご入力いただいたメールアドレスは登録されていません。"
 
+msgid "RESET_PASSWORD_SUCCESSFUL"
+msgstr "パスワードの変更に成功しました"
+
 msgid "INVOICES"
 msgstr "請求書"
 
@@ -678,3 +681,6 @@ msgstr "データなし"
 
 msgid "RECAPTCHA_FAILED"
 msgstr "reCAPTCHA認証の入力内容に間違いがあります。"
+
+msgid "unknown"
+msgstr "不明"
