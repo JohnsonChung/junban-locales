@@ -684,3 +684,6 @@ msgstr "reCAPTCHA認証の入力内容に間違いがあります。"
 
 msgid "unknown"
 msgstr "不明"
+
+msgid "ADMIN_PANEL"
+msgstr "管理者用パネル"
