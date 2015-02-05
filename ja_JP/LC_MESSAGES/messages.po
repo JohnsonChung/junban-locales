@@ -670,6 +670,15 @@ msgstr "呼出し"
 msgid "missed"
 msgstr "不明"
 
+msgid "waiting_list"
+msgstr "お待ちリスト"
+
+msgid "called_list"
+msgstr "呼出しリスト"
+
+msgid "missed_list"
+msgstr "不明リスト"
+
 msgid "customers_avg_waiting_time"
 msgstr "日別平均待ち時間 (呼出し)"
 
@@ -687,3 +696,6 @@ msgstr "不明"
 
 msgid "ADMIN_PANEL"
 msgstr "管理者用パネル"
+
+msgid "loading..."
+msgstr "読み込んでいます..."
