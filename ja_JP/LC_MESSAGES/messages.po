@@ -164,6 +164,15 @@ msgstr "質問"
 msgid "kiosk_complete"
 msgstr "完成"
 
+msgid "kiosk_complete_qr_confirmation"
+msgstr "完成QR Code選択支"
+
+msgid "kiosk_complete_qr_show"
+msgstr "完成QR Codeを表示"
+
+msgid "kiosk_complete_remind"
+msgstr "リマインド"
+
 msgid "kiosk_disabled"
 msgstr "閉店画面"
 
