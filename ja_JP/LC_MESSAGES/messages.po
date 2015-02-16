@@ -206,13 +206,13 @@ msgid "kiosk_message_disabled_bottom"
 msgstr "次の営業時間によろしくお願いたします。"
 
 msgid "kiosk_message_hasEmptySeat_header"
-msgstr "現在店內有空位 Kiosk 暫停服務"
+msgstr "現在店內有空位 %n%"
 
 msgid "kiosk_message_hasEmptySeat_top"
 msgstr "Has empty seat TOP"
 
 msgid "kiosk_message_hasEmptySeat_bottom"
-msgstr "Has empty seat BOTTOM"
+msgstr "Kiosk暫停服務"
 
 msgid "kiosk_message_limit_reached"
 msgstr ""
