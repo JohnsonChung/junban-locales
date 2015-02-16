@@ -206,7 +206,7 @@ msgid "kiosk_message_disabled_bottom"
 msgstr "次の営業時間によろしくお願いたします。"
 
 msgid "kiosk_message_hasEmptySeat_header"
-msgstr "現在店內有空位 %n%"
+msgstr "現在店內有空位"
 
 msgid "kiosk_message_hasEmptySeat_top"
 msgstr "Has empty seat TOP"
