@@ -205,6 +205,15 @@ msgstr "申し訳ありませんが、本日の受付は終了させていただ
 msgid "kiosk_message_disabled_bottom"
 msgstr "次の営業時間によろしくお願いたします。"
 
+msgid "kiosk_message_hasEmptySeat_header"
+msgstr "現在店內有空位 Kiosk 暫停服務"
+
+msgid "kiosk_message_hasEmptySeat_top"
+msgstr "Has empty seat TOP"
+
+msgid "kiosk_message_hasEmptySeat_bottom"
+msgstr "Has empty seat BOTTOM"
+
 msgid "kiosk_message_limit_reached"
 msgstr ""
 "今日、無料会員の登録上限を超えてしまいましたので （毎日 %n% 人）、\n"
