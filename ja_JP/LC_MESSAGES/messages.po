@@ -205,14 +205,11 @@ msgstr "申し訳ありませんが、本日の受付は終了させていただ
 msgid "kiosk_message_disabled_bottom"
 msgstr "次の営業時間によろしくお願いたします。"
 
-msgid "kiosk_message_hasEmptySeat_header"
-msgstr "現在店內有空位"
-
 msgid "kiosk_message_hasEmptySeat_top"
-msgstr "Has empty seat TOP"
+msgstr "Kiosk暫停服務"
 
 msgid "kiosk_message_hasEmptySeat_bottom"
-msgstr "Kiosk暫停服務"
+msgstr "現在店內有空位"
 
 msgid "kiosk_message_limit_reached"
 msgstr ""
