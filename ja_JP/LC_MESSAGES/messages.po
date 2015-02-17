@@ -714,3 +714,6 @@ msgstr "管理者用パネル"
 
 msgid "loading..."
 msgstr "読み込んでいます..."
+
+msgid "We are now serving"
+msgstr "お待たせいたしました"
