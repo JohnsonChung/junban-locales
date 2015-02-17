@@ -717,3 +717,6 @@ msgstr "読み込んでいます..."
 
 msgid "We are now serving"
 msgstr "お待たせいたしました"
+
+msgid "handheld_app_admin"
+msgstr "アプリ管理"
