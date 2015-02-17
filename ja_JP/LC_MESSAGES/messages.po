@@ -209,7 +209,7 @@ msgid "kiosk_message_hasEmptySeat_top"
 msgstr "Kiosk暫停服務"
 
 msgid "kiosk_message_hasEmptySeat_bottom"
-msgstr "現在店內有空位"
+msgstr "ただ今、空席あります"
 
 msgid "kiosk_message_limit_reached"
 msgstr ""
