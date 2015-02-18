@@ -729,3 +729,6 @@ msgstr "特定商取引に基づく表記"
 
 msgid "PRIVACY_POLICY"
 msgstr "プライバシーポリシー（個人情報保護方針）"
+
+msgid "email_inquiry_subject"
+msgstr "順番コンシェルお問合せフォーム"
