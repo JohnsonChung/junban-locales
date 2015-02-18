@@ -720,3 +720,9 @@ msgstr "お待たせいたしました"
 
 msgid "handheld_app_admin"
 msgstr "アプリ管理"
+
+msgid "LEGAL"
+msgstr "特定商取引に基づく表記"
+
+msgid "PRIVACY_POLICY"
+msgstr "プライバシーポリシー（個人情報保護方針）"
