@@ -180,7 +180,7 @@ msgid "kiosk_complete_remind"
 msgstr "リマインド"
 
 msgid "kiosk_disabled"
-msgstr "閉店画面"
+msgstr "休止状態"
 
 msgid "kiosk_edit"
 msgstr "受付画面編集"
@@ -211,11 +211,14 @@ msgstr "申し訳ありませんが、本日の受付は終了させていただ
 msgid "kiosk_message_disabled_bottom"
 msgstr "次の営業時間によろしくお願いたします。"
 
+msgid "kiosk_message_hasEmptySeat_header"
+msgstr "店に空席あります"
+
 msgid "kiosk_message_hasEmptySeat_top"
-msgstr "Kiosk暫停服務"
+msgstr "順番コンシェルは休止中です"
 
 msgid "kiosk_message_hasEmptySeat_bottom"
-msgstr "ただ今、空席あります"
+msgstr "この端末は順番管理システム「順番コンシェル」です"
 
 msgid "kiosk_message_limit_reached"
 msgstr ""
