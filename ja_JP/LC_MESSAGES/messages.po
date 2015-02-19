@@ -114,6 +114,9 @@ msgstr "今のお客様の順番記録をクリアしませんか？"
 msgid "reset_customers"
 msgstr "順番リストをクリアします"
 
+msgid "reset_customers_success"
+msgstr "順番リストクリアしました"
+
 msgid "prompt_reset_customers_body"
 msgstr ""
 "* 今の順番リストをクリアします。 \n"
