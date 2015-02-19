@@ -111,6 +111,9 @@ msgstr "アプリ"
 msgid "prompt_reset_customers_header"
 msgstr "今のお客様の順番記録をクリアしませんか？"
 
+msgid "reset_customers"
+msgstr "順番リストをクリアします"
+
 msgid "prompt_reset_customers_body"
 msgstr ""
 "* 今の順番リストをクリアします。 \n"
