@@ -498,6 +498,9 @@ msgstr "%field% フィールドは必要です。"
 msgid "THIS_FIELD_REQUIRED"
 msgstr "このフィールドは入力必須です。"
 
+msgid "REQUIRED_STAR"
+msgstr "(必須) *"
+
 msgid "FIELD_MAXLENGTH"
 msgstr "%field% フィールドは全角 %length% 文字まで。"
 
