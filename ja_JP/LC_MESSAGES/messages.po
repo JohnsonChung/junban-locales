@@ -742,5 +742,14 @@ msgstr "プライバシーポリシー（個人情報保護方針）"
 msgid "INQUIRY"
 msgstr "お問合せフォーム"
 
+msgid "inquiry_content"
+msgstr "お問い合わせ内容"
+
+msgid "inquiry_sent_message"
+msgstr ""
+"お問合わせが正常に送信されました。\n"
+"入力フォームからのお申し込みありがとうございました。 内容を確認後、早急にご返信させていただきます。\n"
+"3営業日を経過しても連絡が無い場合やお急ぎの場合は下記の「PCサポート技術者協会」の連絡先までお問い合わせ下さい。"
+
 msgid "email_inquiry_subject"
 msgstr "順番コンシェル - お問合せフォーム"
