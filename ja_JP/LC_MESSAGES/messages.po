@@ -393,7 +393,7 @@ msgid "next_page"
 msgstr "次へ"
 
 msgid "firstName"
-msgstr "名前"
+msgstr "お名前"
 
 msgid "lastName"
 msgstr "苗字"
