@@ -756,3 +756,24 @@ msgstr ""
 
 msgid "email_inquiry_subject"
 msgstr "順番コンシェル - お問合せフォーム"
+
+msgid "webpay_card_exception"
+msgstr "支払いが失敗しました"
+
+msgid "webpay_paid"
+msgstr "支払い済み"
+
+msgid "webpay_unpaid"
+msgstr "未払い"
+
+msgid "webpay_refunded"
+msgstr "一部払い戻し済み"
+
+msgid "webpay_amount"
+msgstr "課金額"
+
+msgid "webpay_created"
+msgstr "日付"
+
+msgid "webpay_status"
+msgstr "ステータス"
