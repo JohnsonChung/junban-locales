@@ -770,3 +770,6 @@ msgstr "contract_termination_content"
 
 msgid "contract_termination_confirm"
 msgstr "確認する"
+
+msgid "RULE_OF_USE"
+msgstr "利用規約"
