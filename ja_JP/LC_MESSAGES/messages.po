@@ -346,7 +346,7 @@ msgid "delete"
 msgstr "削除"
 
 msgid "submit"
-msgstr "送出"
+msgstr "送信"
 
 msgid "confirm_delete"
 msgstr "削除したら回復することはできませんので，削除を許可しますか？"
