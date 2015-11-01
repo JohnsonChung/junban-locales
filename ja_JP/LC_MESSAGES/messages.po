@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.5\n"
+"X-Generator: Poedit 1.8.6\n"
 "Language: ja_JP\n"
 
 msgid "SITENAME"
@@ -51,7 +51,7 @@ msgid "USER_DISABLED"
 msgstr "このアカウントは閉鎖されました。"
 
 msgid "USER_EMAIL_NOT_VERIFIED"
-msgstr "このEメールはまだ検証しておりません。"
+msgstr "このEメールアドレスはまだ検証しておりません。"
 
 msgid "USER_EMAIL_VERIFY_SUCCESS"
 msgstr "メールアドレスの検証が完了しました。"
@@ -78,7 +78,8 @@ msgid "FORGET_PASSWORD"
 msgstr "パスワードを忘れた"
 
 msgid "RESET_PASSWORD_MAIL_SENT"
-msgstr "入力いただいたメールアドレス宛に、パスワード変更メールを送信しました。\n"
+msgstr ""
+"入力いただいたメールアドレス宛に、パスワード変更メールを送信しました。\n"
 "6時間以内に変更手続きを完了してください。"
 
 msgid "RESET_PASSWORD_NOT_EXISTS"
@@ -126,7 +127,8 @@ msgid "app_password"
 msgstr "アプリのパスワード"
 
 msgid "app_password_description"
-msgstr "アプリパスワードは「アプリ・マネジャー」と「アプリ・キオスク」など「アプリ」専用のパスワード。\n"
+msgstr ""
+"アプリパスワードは「アプリ・マネジャー」と「アプリ・キオスク」など「アプリ」専用のパスワード。\n"
 "非管理人（従業員など）に管理パスワードを知らせないままにアプリを使わせるために、個別のモビルに専用のアプリパスワードを分配します。\n"
 "モビルデバイスでアプリパスワードのQRコードを読み取って、管理パスワードの不要でアプリが使えるようになります。\n"
 "アプリパスワードを要らない時に一旦停止と削除することは可能です。"
@@ -189,18 +191,13 @@ msgid "kiosk_edit"
 msgstr "受付画面編集"
 
 msgid "kiosk_edit_welcome_description"
-msgstr ""
-"受付機に最初に表示される画面です。<br>ロゴマークやご案内の内容を画像にして"
-"アップロードしてください。<br>（画像の大きさは自動で調整されますが、縦横の比"
-"率は、縦１：横3ぐらいを推奨します）"
+msgstr "受付機に最初に表示される画面です。<br>ロゴマークやご案内の内容を画像にしてアップロードしてください。<br>（画像の大きさは自動で調整されますが、縦横の比率は、縦１：横3ぐらいを推奨します）"
 
 msgid "kiosk_edit_sign_description"
 msgstr "サインを書いていただく画面です。画面上部のテキストが編集できます。"
 
 msgid "kiosk_edit_question_description"
-msgstr ""
-"お客様に答えていただく質問とその答え（選択肢）です。質問は5つまで設定できま"
-"す。"
+msgstr "お客様に答えていただく質問とその答え（選択肢）です。質問は5つまで設定できます。"
 
 msgid "kiosk_edit_complete_description"
 msgstr "登録完了時の画面にスマートフォン用QRコードの発行画面を表示しますか?"
@@ -241,9 +238,7 @@ msgid "Please patiently until your number is called"
 msgstr "お名前が呼ばれるまでお待ちください。"
 
 msgid "kiosk_junban_checker_confirm_title"
-msgstr ""
-"<h1>QRコードが読み取れるスマートフォンで、</h1><h1>順番のチェックができます。"
-"</h1>"
+msgstr "<h1>QRコードが読み取れるスマートフォンで、</h1><h1>順番のチェックができます。</h1>"
 
 msgid "Do you want to trace List by Smartphone (QR code)?"
 msgstr "QRコードを発行しますか？"
@@ -261,9 +256,7 @@ msgid "no_answers"
 msgstr "今は答えがありません、下の ”答えを増え” ボタンを押してください。"
 
 msgid "no_app_passwords"
-msgstr ""
-"今はパスワードがありません、下の ”アプリのパスワードを増え” ボタンを押してく"
-"ださい。"
+msgstr "今はパスワードがありません、下の ”アプリのパスワードを増え” ボタンを押してください。"
 
 msgid "upload_logo"
 msgstr "ロゴをアップロード"
@@ -284,7 +277,7 @@ msgid "delete_answer"
 msgstr "選択肢削除"
 
 msgid "handheld"
-msgstr "スタッフ用"
+msgstr "マネジャー"
 
 msgid "checker"
 msgstr "順番チェッカー"
@@ -299,8 +292,7 @@ msgid "question_abbr"
 msgstr "質問の略語"
 
 msgid "question_abbr_tip"
-msgstr ""
-"質問を識別するための3文字程度の言葉を入力します。例：「人数」「席の希望」"
+msgstr "質問を識別するための3文字程度の言葉を入力します。例：「人数」「席の希望」"
 
 msgid "kiosk_welcome_message"
 msgstr "受付画面のメッセージ"
@@ -393,25 +385,25 @@ msgid "next_page"
 msgstr "次へ"
 
 msgid "firstName"
-msgstr "お名前"
+msgstr "名"
 
 msgid "lastName"
-msgstr "苗字"
+msgstr "姓"
 
 msgid "companyName"
 msgstr "会社名"
 
 msgid "companyCategory"
-msgstr "事業類別"
+msgstr "事業種別"
 
 msgid "medical facility"
 msgstr "医療施設"
 
 msgid "shop"
-msgstr "商店"
+msgstr "商店・物販"
 
 msgid "restaurant"
-msgstr "レストラン"
+msgstr "飲食関係"
 
 msgid "hair salon"
 msgstr "理容店"
@@ -420,7 +412,7 @@ msgid "public facility"
 msgstr "公共施設"
 
 msgid "other"
-msgstr "他の"
+msgstr "その他"
 
 msgid "plan"
 msgstr "プラン"
@@ -438,10 +430,10 @@ msgid "telephone"
 msgstr "電話"
 
 msgid "email"
-msgstr "Eメール"
+msgstr "Eメールアドレス"
 
 msgid "email_verification"
-msgstr "Eメール検証"
+msgstr "Eメールアドレス検証"
 
 msgid "email_verified"
 msgstr "検証済"
@@ -474,7 +466,7 @@ msgid "require_companyCategory"
 msgstr "事業類別を選択してください。"
 
 msgid "require_email"
-msgstr "Eメールをご入力ください。"
+msgstr "Eメールアドレスをご入力ください。"
 
 msgid "require_email_format"
 msgstr "ご入力いただいたメールアドレスが正しい内容ではありません。"
@@ -483,8 +475,7 @@ msgid "require_password"
 msgstr "パスワードをご入力ください。"
 
 msgid "remember_me"
-msgstr ""
-"ログイン状態を保持する (公共の場所にあるパソコンに選択しないでください)"
+msgstr "ログイン状態を保持する (公共の場所にあるパソコンに選択しないでください)"
 
 msgid "csrf_validation_failed"
 msgstr "クロスサイトリクエストフォージェリ（CSRF）認証失敗"
@@ -526,8 +517,7 @@ msgid "EMAIL_INVALID"
 msgstr "ご入力いただいたメールアドレスが正しい内容ではありません。"
 
 msgid "IP_INVALID"
-msgstr ""
-"ご入力いただいたインターネット・プロトコル（IP）が正しい内容ではありません。"
+msgstr "ご入力いただいたインターネット・プロトコル（IP）が正しい内容ではありません。"
 
 msgid "FOREIGN_KEY_INVALID"
 msgstr "%field% 存在しません"
@@ -548,9 +538,7 @@ msgid "ERROR_403"
 msgstr "あなたはこのページを表示する権限がありません"
 
 msgid "ERROR_404"
-msgstr ""
-"ページが存在しません。引き続き問題が発生する場合は、サポートまでご連絡くださ"
-"い。"
+msgstr "ページが存在しません。引き続き問題が発生する場合は、サポートまでご連絡ください。"
 
 msgid "ERROR_500"
 msgstr "エラーが起きちゃいますよ、管理員をご連絡ください"
@@ -568,8 +556,7 @@ msgid "checker_description"
 msgstr ""
 "本日のご来店ありがとうございます。\n"
 "お客様の順番を下記の通り登録いたしました。\n"
-"お呼び出しの順番が近付きましたら、受付の近くでお待ちいただきますようお願い致"
-"します。"
+"お呼び出しの順番が近付きましたら、受付の近くでお待ちいただきますようお願い致します。"
 
 msgid "checker_notification"
 msgstr "あなたの順番になります！"
@@ -617,9 +604,7 @@ msgid "tts_monitor_customer_signed"
 msgstr "人数増えの提示ボイス"
 
 msgid "tts_monitor_calling_description"
-msgstr ""
-"内容中の %n% はお客様の順番号を表示します。例えば %n%番のお客様お待たせいたし"
-"ました。"
+msgstr "内容中の %n% はお客様の順番号を表示します。例えば %n%番のお客様お待たせいたしました。"
 
 msgid "tts_language"
 msgstr "ボイスの言語"
@@ -652,13 +637,13 @@ msgid "重設時間"
 msgstr "リセットの時間"
 
 msgid "kiosk_short_description"
-msgstr " %waiting% 人のお客様がお待ち"
+msgstr " %waiting% 人のお客様がお待ちです"
 
 msgid "handheld_short_description"
-msgstr "お待ち：%waiting%、 呼んだ：%called%, 不明：%missed%"
+msgstr "お待ち：%waiting%、 呼出済：%called%, 不在：%missed%"
 
 msgid "checker_short_description"
-msgstr "携帯で今の順番を確認するアプリ。"
+msgstr "携帯でお客様の順番を確認するアプリ。"
 
 msgid "monitor_short_description"
 msgstr "順番の一覧を表示するアプリ。ヴォイス呼び機能付き。"
@@ -682,8 +667,7 @@ msgid "kiosk_qr_enabled_on"
 msgstr "<b>「表示する」</b>。QRコード発行「する」「しない」を選択できます。"
 
 msgid "kiosk_qr_enabled_off"
-msgstr ""
-"<b>「表示しない」</b>。QRコード発行選択を表示されず、完了画面になります。"
+msgstr "<b>「表示しない」</b>。QRコード発行選択を表示されず、完了画面になります。"
 
 msgid "kiosk_qr_yes"
 msgstr "発行する"
@@ -779,7 +763,7 @@ msgid "webpay_status"
 msgstr "ステータス"
 
 msgid "contract_termination"
-msgstr "契約解除"
+msgstr "解約手続き"
 
 msgid "contract_termination_content"
 msgstr "contract_termination_content"
