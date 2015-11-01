@@ -14,6 +14,9 @@ msgstr ""
 msgid "SITENAME"
 msgstr "順番コンシェル"
 
+msgid "SITE_DESCRIPTION"
+msgstr "順番コンシェル"
+
 msgid "COMPANY_NAME"
 msgstr "一般社団法人PCサポート技術者協会"
 
@@ -51,7 +54,7 @@ msgid "USER_EMAIL_NOT_VERIFIED"
 msgstr "このEメールはまだ検証しておりません。"
 
 msgid "USER_EMAIL_VERIFY_SUCCESS"
-msgstr "Email verification successful"
+msgstr "メールアドレスの検証が完了しました。"
 
 msgid "USER_CHANGE_PASSWORD"
 msgstr "パスワード変更"
@@ -67,6 +70,22 @@ msgstr "新しいパスワードを再入力"
 
 msgid "PASSWORD_WRONG"
 msgstr "入力したメールアドレスまたはパスワードが間違っています。"
+
+msgid "RESET_PASSWORD"
+msgstr "パスワードを変更する"
+
+msgid "FORGET_PASSWORD"
+msgstr "パスワードを忘れた"
+
+msgid "RESET_PASSWORD_MAIL_SENT"
+msgstr "入力いただいたメールアドレス宛に、パスワード変更メールを送信しました。\n"
+"6時間以内に変更手続きを完了してください。"
+
+msgid "RESET_PASSWORD_NOT_EXISTS"
+msgstr "ご入力いただいたメールアドレスは登録されていません。"
+
+msgid "RESET_PASSWORD_SUCCESSFUL"
+msgstr "パスワードの変更に成功しました"
 
 msgid "INVOICES"
 msgstr "請求書"
@@ -91,6 +110,12 @@ msgstr "アプリ"
 
 msgid "prompt_reset_customers_header"
 msgstr "今のお客様の順番記録をクリアしませんか？"
+
+msgid "reset_customers"
+msgstr "順番リストをクリアします"
+
+msgid "reset_customers_success"
+msgstr "順番リストクリアしました"
 
 msgid "prompt_reset_customers_body"
 msgstr ""
@@ -148,8 +173,17 @@ msgstr "質問"
 msgid "kiosk_complete"
 msgstr "完成"
 
+msgid "kiosk_complete_qr_confirmation"
+msgstr "完成QR Code選択支"
+
+msgid "kiosk_complete_qr_show"
+msgstr "完成QR Codeを表示"
+
+msgid "kiosk_complete_remind"
+msgstr "リマインド"
+
 msgid "kiosk_disabled"
-msgstr "閉店画面"
+msgstr "休止状態"
 
 msgid "kiosk_edit"
 msgstr "受付画面編集"
@@ -179,6 +213,15 @@ msgstr "申し訳ありませんが、本日の受付は終了させていただ
 
 msgid "kiosk_message_disabled_bottom"
 msgstr "次の営業時間によろしくお願いたします。"
+
+msgid "kiosk_message_hasEmptySeat_header"
+msgstr "店に空席あります"
+
+msgid "kiosk_message_hasEmptySeat_top"
+msgstr "順番コンシェルは休止中です"
+
+msgid "kiosk_message_hasEmptySeat_bottom"
+msgstr "この端末は順番管理システム「順番コンシェル」です"
 
 msgid "kiosk_message_limit_reached"
 msgstr ""
@@ -350,7 +393,7 @@ msgid "next_page"
 msgstr "次へ"
 
 msgid "firstName"
-msgstr "名前"
+msgstr "お名前"
 
 msgid "lastName"
 msgstr "苗字"
@@ -454,6 +497,9 @@ msgstr "%field% フィールドは必要です。"
 
 msgid "THIS_FIELD_REQUIRED"
 msgstr "このフィールドは入力必須です。"
+
+msgid "REQUIRED_STAR"
+msgstr "(必須) *"
 
 msgid "FIELD_MAXLENGTH"
 msgstr "%field% フィールドは全角 %length% 文字まで。"
@@ -654,6 +700,15 @@ msgstr "呼出し"
 msgid "missed"
 msgstr "不明"
 
+msgid "waiting_list"
+msgstr "お待ちリスト"
+
+msgid "called_list"
+msgstr "呼出しリスト"
+
+msgid "missed_list"
+msgstr "不明リスト"
+
 msgid "customers_avg_waiting_time"
 msgstr "日別平均待ち時間 (呼出し)"
 
@@ -662,3 +717,72 @@ msgstr "％不明"
 
 msgid "no_data"
 msgstr "データなし"
+
+msgid "RECAPTCHA_FAILED"
+msgstr "reCAPTCHA認証の入力内容に間違いがあります。"
+
+msgid "unknown"
+msgstr "不明"
+
+msgid "ADMIN_PANEL"
+msgstr "管理者用パネル"
+
+msgid "loading..."
+msgstr "読み込んでいます..."
+
+msgid "We are now serving"
+msgstr "お待たせいたしました"
+
+msgid "handheld_app_admin"
+msgstr "アプリ管理"
+
+msgid "LEGAL"
+msgstr "特定商取引に基づく表記"
+
+msgid "PRIVACY_POLICY"
+msgstr "プライバシーポリシー（個人情報保護方針）"
+
+msgid "INQUIRY"
+msgstr "お問合せフォーム"
+
+msgid "inquiry_content"
+msgstr "お問い合わせ内容"
+
+msgid "inquiry_sent_message"
+msgstr ""
+"お問合わせが正常に送信されました。\n"
+"入力フォームからのお申し込みありがとうございました。 内容を確認後、早急にご返信させていただきます。\n"
+"3営業日を経過しても連絡が無い場合やお急ぎの場合は下記の「PCサポート技術者協会」の連絡先までお問い合わせ下さい。"
+
+msgid "email_inquiry_subject"
+msgstr "順番コンシェル - お問合せフォーム"
+
+msgid "webpay_card_exception"
+msgstr "支払いが失敗しました"
+
+msgid "webpay_paid"
+msgstr "支払い済み"
+
+msgid "webpay_unpaid"
+msgstr "未払い"
+
+msgid "webpay_refunded"
+msgstr "一部払い戻し済み"
+
+msgid "webpay_amount"
+msgstr "課金額(円)"
+
+msgid "webpay_created"
+msgstr "日付"
+
+msgid "webpay_status"
+msgstr "ステータス"
+
+msgid "contract_termination"
+msgstr "契約解除"
+
+msgid "contract_termination_content"
+msgstr "contract_termination_content"
+
+msgid "contract_termination_confirm"
+msgstr "確認する"
