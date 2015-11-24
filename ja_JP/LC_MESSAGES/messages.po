@@ -124,26 +124,25 @@ msgstr ""
 "* 順番は最初から始まります。"
 
 msgid "app_password"
-msgstr "アプリのパスワード"
+msgstr "端末の登録"
 
 msgid "app_password_description"
 msgstr ""
-"アプリパスワードは「アプリ・マネジャー」と「アプリ・キオスク」など「アプリ」専用のパスワード。\n"
-"非管理人（従業員など）に管理パスワードを知らせないままにアプリを使わせるために、個別のモビルに専用のアプリパスワードを分配します。\n"
-"モビルデバイスでアプリパスワードのQRコードを読み取って、管理パスワードの不要でアプリが使えるようになります。\n"
-"アプリパスワードを要らない時に一旦停止と削除することは可能です。"
+"Androidタブレットから、QRコードをスキャンすることで \n"
+"キオスク端末として利用できるようになります。\n"
+"万一Android端末を紛失しても、登録を削除すれば不正利用を防ぐことが可能です。"
 
 msgid "app_password_name"
-msgstr "コードネーム"
+msgstr "端末名"
 
 msgid "app_password_link"
-msgstr "リンク"
+msgstr "QRコード"
 
 msgid "app_password_link_copied"
 msgstr "リンクをコピーしました。"
 
 msgid "app_password_indication"
-msgstr "登録したい端末にこのリンクを開けてください。"
+msgstr "登録するAndroid端末で、「順番コンシェル・キオスク」アプリを使って、このQRコードをスキャンしてください。"
 
 msgid "app_password_disable"
 msgstr "停用"
@@ -152,7 +151,7 @@ msgid "app_password_enable"
 msgstr "起用"
 
 msgid "add_app_password"
-msgstr "アプリのパスワードを増えて"
+msgstr "キオスク端末を追加する"
 
 msgid "app_settings"
 msgstr "アプリ設定"
@@ -256,7 +255,7 @@ msgid "no_answers"
 msgstr "今は答えがありません、下の ”答えを増え” ボタンを押してください。"
 
 msgid "no_app_passwords"
-msgstr "今はパスワードがありません、下の ”アプリのパスワードを増え” ボタンを押してください。"
+msgstr "現在、端末の登録がありません。下の「キオスク端末を追加する」ボタンを押してください。"
 
 msgid "upload_logo"
 msgstr "ロゴをアップロード"
@@ -358,7 +357,7 @@ msgid "activate_user"
 msgstr "封鎖を解除"
 
 msgid "created_at"
-msgstr "作成の日"
+msgstr "登録日"
 
 msgid "actions"
 msgstr "アクション"
@@ -598,13 +597,15 @@ msgid "tts_monitor_calling"
 msgstr "モニターボイス"
 
 msgid "tts_monitor_customer_called"
-msgstr "お客様コールの提示ボイス"
+msgstr "お客様が呼び出された際の音声（待合室用）"
 
 msgid "tts_monitor_customer_signed"
-msgstr "人数増えの提示ボイス"
+msgstr "お客様が増えた際の音声（スタッフルーム用）"
 
 msgid "tts_monitor_calling_description"
-msgstr "内容中の %n% はお客様の順番号を表示します。例えば %n%番のお客様お待たせいたしました。"
+msgstr ""
+"順番の増減時にモニターから出力される音声を管理します。\n"
+"\v( 呼び出された番号は「%n%」、合計の順番待ち数は「%total%」とします"
 
 msgid "tts_language"
 msgstr "ボイスの言語"
