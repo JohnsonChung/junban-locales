@@ -345,7 +345,7 @@ msgid "delete"
 msgstr "削除"
 
 msgid "submit"
-msgstr "送出"
+msgstr "送信"
 
 msgid "confirm_delete"
 msgstr "削除したら回復することはできませんので，削除を許可しますか？"
@@ -767,7 +767,15 @@ msgid "contract_termination"
 msgstr "解約手続き"
 
 msgid "contract_termination_content"
-msgstr "contract_termination_content"
+msgstr ""
+"<ul>"
+"<li>下の「解約する」ボタンを押すとすぐに一般会員となります。</li>"
+"<li>解約後は、プレミアム会員のサービスを受けることができません。</li>"
+"<li>月の途中で解約された場合でも解約月未利用分の日割り分払い戻しは行いません。</li>"
+"</ul>"
 
 msgid "contract_termination_confirm"
 msgstr "確認する"
+
+msgid "RULE_OF_USE"
+msgstr "利用規約"
